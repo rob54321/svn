@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-10-14T16:13:08.791039Z
+K 7
+svn:log
+V 122
+changed Makefile to include myarchive. So libmyutils contains the archive class as well as string to int converstions etc.
+END

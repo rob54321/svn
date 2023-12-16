@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-04-27T19:03:08.350978Z
+K 7
+svn:log
+V 131
+got the insert dialog working, still needs fine tunning. Must get values from the dialog and workout how it returns to record frame
+END

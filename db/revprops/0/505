@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-02-13T16:16:22.731754Z
+K 7
+svn:log
+V 91
+changed copy, cut and paste to work with a temp tree so a branch can be copied onto itself.
+END

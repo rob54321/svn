@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-04-10T21:01:05.216000Z
+K 7
+svn:log
+V 145
+changed bookmarks manager to include bitmap icons on a toolbar. Scripts will not execute now. Could be that the script text control is not found.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-10-01T13:16:20.819144Z
+K 7
+svn:log
+V 82
+made changes to make-repository: apt-ftparchive now has the correct component list
+END

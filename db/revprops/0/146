@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-06-28T10:22:22.852410Z
+K 7
+svn:log
+V 97
+cleaned up code by removing all unecessary members from classes like sizers, buttons, static text
+END

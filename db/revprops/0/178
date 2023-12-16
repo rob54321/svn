@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-12T20:17:24.353107Z
+K 7
+svn:log
+V 328
+changed event handlers for tree and list controls to dynamic. The list control evt handler is rerouted to the tree control to capture the list controls event first so that the file that is selected or unselected in the list control will be known to the tree control. Control is then passed on to the list controls event handler.
+END

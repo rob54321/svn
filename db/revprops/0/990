@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-18T14:45:37.532000Z
+K 7
+svn:log
+V 196
+Moved ExerciseTableModel to a separate file. Changed the constructor to make it more general purpose. It can no be used for edting and read only tables. Tool bar buttons activate script execution.
+END

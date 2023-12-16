@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-05-20T14:04:06.824093Z
+K 7
+svn:log
+V 107
+Changed Gender, Age and Units layout managers to GridLayout so that the radio buttons now align vertically.
+END

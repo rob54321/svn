@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-02-21T19:49:53.893875Z
+K 7
+svn:log
+V 119
+if the status list is changed a pompt is placed on the window to save the status list. Remembers which file was opened.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-03T14:51:41.411171Z
+K 7
+svn:log
+V 231
+Added a StatusList object to manage the status of the nodes on the tree. Seems to work. Must still include file icons and modify getTreeCellRenderer to take file status into account. This project is dependent on the Status Project.
+END

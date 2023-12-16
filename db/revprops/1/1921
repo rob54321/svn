@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-03-07T06:08:26.892871Z
+K 7
+svn:log
+V 82
+changed postinst to not edit the interfaces file. edit_interfaces.pl does this now
+END

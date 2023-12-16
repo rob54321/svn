@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-05-04T16:55:17.220000Z
+K 7
+svn:log
+V 157
+Updated the history manager to delete entries as well as keep a current value. Also updated MainWindow to show the history items in the sql statement window.
+END

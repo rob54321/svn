@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-23T15:14:56.886880Z
+K 7
+svn:log
+V 45
+added a status bar, as well as a select menu.
+END

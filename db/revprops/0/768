@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-28T12:54:03.058176Z
+K 7
+svn:log
+V 217
+Fixed a bug in the FullDialog. The combo box was adding history to the history list as well as using the addItem method of the history list. Duplicate entries were arising.
+Prevented the combo box from adding entries.
+END

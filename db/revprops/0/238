@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-25T14:15:42.396636Z
+K 7
+svn:log
+V 242
+fixed a bug (several) in SetPartial. When a directory goes from selected to partial and it was selected by virtue of a parent the file status was not set. fixed. Seems to work up and down the tree. Must still test files in the root directory.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-02-04T17:41:24.509042Z
+K 7
+svn:log
+V 108
+got recursive copy of a branch from the tree working. Cannot copy a branch onto itself. Will fix this maybe.
+END

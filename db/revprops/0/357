@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-09T07:43:11.891571Z
+K 7
+svn:log
+V 307
+BackupProgress Dialog seems to work. The close button is only activated after the backup is finished. Changed the Start button to Ok on backup and incremental dialogs. The ProgressDialog should start the backup. Will investigate. ProgressDialog only works with copy option since files are copied one by one.
+END

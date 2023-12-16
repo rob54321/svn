@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-01-27T14:51:41.834921Z
+K 7
+svn:log
+V 91
+set_proxy.pl now deletes proxy.pac first, and jigdo5 has different defaults to repositories
+END

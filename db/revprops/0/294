@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-10-08T12:23:17.265655Z
+K 7
+svn:log
+V 122
+fixed a bug in Copy, placed ticks aroung the name so that files or directories with spaces in their names would be copied.
+END

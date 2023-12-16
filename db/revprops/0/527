@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-04-10T18:22:50.786902Z
+K 7
+svn:log
+V 173
+changed right hand pane to include a notebook which shows bookmarks and scripts on the tabs. Also placed a toolbar at the top. Each tab of the notebook should get a toolbar.
+END

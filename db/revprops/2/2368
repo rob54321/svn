@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2011-08-30T16:08:02.216272Z
+K 7
+svn:log
+V 72
+changed rsbackup.pl to delete files when not doing an incremental backup
+END

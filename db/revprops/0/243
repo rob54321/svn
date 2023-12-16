@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-27T12:05:19.031681Z
+K 7
+svn:log
+V 465
+Removed MarkParents and MarkBranch from the tree control as the StatusList class manages the selections. Changed MarkItem to only set images base on info from the StatusList class. Changed the list control to only Mark the changed item. The tree and list control only SetSelect or SetNormal the item that was clicked. The StatusList class manages selections up and down the tree. The tree and list ctrl set images, they get the ImageIndex from the statuslist class.
+END

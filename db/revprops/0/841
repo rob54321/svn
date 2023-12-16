@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-15T10:52:13.876105Z
+K 7
+svn:log
+V 130
+Fixed a bug concerning the combo box event handler for item state changed. Disable and enable the event handler in various places.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-10-27T04:51:40.461437Z
+K 7
+svn:log
+V 56
+changed init-my-linux to handle i386 and amd64 platforms
+END

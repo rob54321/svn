@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-08T12:04:56.680000Z
+K 7
+svn:log
+V 86
+DataLoader now reads the type from the comment. Insert dialog sets the type combo box.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-12-16T13:02:42.578000Z
+K 7
+svn:log
+V 142
+bdt now replaces a link in a live package with the original files. Works for .bin .tar.gz files. Directories or unrecognised files are copied.
+END

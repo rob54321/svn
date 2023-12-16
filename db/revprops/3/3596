@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2023-04-20T10:59:36.266858Z
+K 7
+svn:log
+V 75
+changed custom.cfg to include a recovery partition for windows in grub menu
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-08-06T12:34:40.565281Z
+K 7
+svn:log
+V 92
+fstab contains all images, get_proxy uses sed instead of grep, jigdo5 has debug info removed
+END

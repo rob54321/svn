@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-10-04T20:07:34.252733Z
+K 7
+svn:log
+V 111
+fixed a typo in CopyDirectory in MyDir. Still needs testing as it crashes when a long directory tree is copied.
+END

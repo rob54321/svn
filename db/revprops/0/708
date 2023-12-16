@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-09T09:41:04.877683Z
+K 7
+svn:log
+V 50
+Changed io exceptions to use the built in message.
+END

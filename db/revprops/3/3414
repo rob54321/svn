@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2021-08-21T06:13:56.036605Z
+K 7
+svn:log
+V 96
+added .gitconfig, .git-credentials and init-rpi-first edits nanorc,subversion config, git config
+END

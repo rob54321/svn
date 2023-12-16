@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-06-06T07:05:53.037502Z
+K 7
+svn:log
+V 42
+fixed myrc.local to work with update-rc.d
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-09-01T08:28:02.398321Z
+K 7
+svn:log
+V 88
+The query to select all records works. Implemented editors for the Type and Race fields.
+END

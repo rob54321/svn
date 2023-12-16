@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-12-19T15:08:15.936000Z
+K 7
+svn:log
+V 54
+the -p command now takes a list of packages to export.
+END

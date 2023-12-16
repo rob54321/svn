@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-05-19T15:20:11.199396Z
+K 7
+svn:log
+V 87
+set column sizes when editing is allowed so that the choice values can be clearly seen.
+END

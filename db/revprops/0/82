@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-05-06T17:09:00.366754Z
+K 7
+svn:log
+V 93
+changed project to eclipse, added delete and setautoincrement to the interface, seems to work
+END

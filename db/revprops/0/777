@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-30T15:16:09.890972Z
+K 7
+svn:log
+V 177
+Fixed the bug in the FullDialog and IncDialog. When a file was selected with the file chooser dialog opened and then the backup cancelled that item is removed from history file.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-15T16:42:47.149031Z
+K 7
+svn:log
+V 165
+fixed a bug in mkdirectory in MyFrame. Changed it to make a full path instead of just one directory. Added a write to DVD checkbox on backup and incremental dialogs.
+END

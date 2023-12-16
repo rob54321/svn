@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-16T12:03:14.377956Z
+K 7
+svn:log
+V 77
+BackupFrame constructor now makes the default directory if it does not exist.
+END

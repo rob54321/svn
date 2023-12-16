@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-21T05:48:31.026436Z
+K 7
+svn:log
+V 279
+changed the layout as follows: DialogBlocks now generates lwindow and rwindow classes. The treectrl is constructed in the lwindow class and the listctrl is constructed in the rwindow class. The code compiles and displays correctly. Must now paste all code for the event handlers.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-09-13T16:30:19.365296Z
+K 7
+svn:log
+V 132
+removed extra code from Refresh in the tree control that was not used since the list control is not refreshed from the tree control.
+END

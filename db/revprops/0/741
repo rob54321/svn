@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-18T14:54:06.424036Z
+K 7
+svn:log
+V 178
+Changed project settings to use class folders rather than project dependencies. Incremental backup loads the saved status list and then gets it as a string and repaints the tree.
+END

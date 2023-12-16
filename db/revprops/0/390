@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-21T19:01:23.769652Z
+K 7
+svn:log
+V 224
+added a destination field to the backup progress dialog. Had to change the include in myarchive.cpp to include this dialog. This is very wrong. The library should not depend on a dialog or the project linking to the library.
+END

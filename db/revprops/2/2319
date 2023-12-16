@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-12-18T08:10:57.017783Z
+K 7
+svn:log
+V 59
+myrc.local now removes xorg.conf if there is no nvidia card
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-01-13T05:46:06.881621Z
+K 7
+svn:log
+V 56
+move new menu to the file menu instead of the edit menu.
+END

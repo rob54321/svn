@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2019-06-28T07:12:10.723296Z
+K 7
+svn:log
+V 128
+ added grub.cfg for efi and legacy on live boot, mbl.pl and ubl.pl for mounting bitlocker drives. Also works in the live system.
+END

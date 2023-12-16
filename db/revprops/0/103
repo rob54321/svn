@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-05-17T18:36:35.499292Z
+K 7
+svn:log
+V 140
+added update dialog. No records are atually updated. Must figure out how to transfer the record no from the Record Frame to the update Frame
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-18T14:54:54.987457Z
+K 7
+svn:log
+V 180
+got load selection working for directories only. Must update the files in the directory if it is current. They do not show they are selected until the directory is displayed again.
+END

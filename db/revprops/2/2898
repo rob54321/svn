@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2015-11-29T10:40:49.850750Z
+K 7
+svn:log
+V 58
+setdns.pl will try and get the ethernet up if it is not up
+END

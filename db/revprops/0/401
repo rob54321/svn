@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-24T06:00:44.818560Z
+K 7
+svn:log
+V 492
+fixed a few bugs in the tree and list controls. At startup the files are displayed for the root directory in the list control. When a directory is expanded the current selection does not change. When a directory is collapsed the current selection changes only if the selected directory is a child of the collapsed directory. The selection would change to the directory where the button was closed. If the selection is outside the collapsed section then no change takes place in the selection.
+END

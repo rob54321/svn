@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-11T19:32:32.730000Z
+K 7
+svn:log
+V 324
+Got the date editor to work on the main window when all records are selected. Must still fire events to change the day as well. Changed the method setDate(String) in the DatePickerControl to accept 2009/07/26 or 2009-07-26. Also wrote the TableDateCellEditor to edit dates. Had to change ExerciseColumn and ExerciseDefaults.
+END

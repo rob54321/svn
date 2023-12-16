@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-10-04T05:34:27.541559Z
+K 7
+svn:log
+V 41
+make-live now mounts and un mounts images
+END

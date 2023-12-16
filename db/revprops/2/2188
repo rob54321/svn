@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-07-25T08:37:56.054000Z
+K 7
+svn:log
+V 62
+make-live supports ubuntu archives as well as debian archives.
+END

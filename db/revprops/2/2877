@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2015-11-17T16:30:38.482701Z
+K 7
+svn:log
+V 74
+fixed a bug in setdns.pl, which edited the line option domain-name-servers
+END

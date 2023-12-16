@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-06-29T20:57:22.139252Z
+K 7
+svn:log
+V 153
+Made radical changes to Status and StatusList classes. Initial tests seem to be working. Have not tested marking and unmarking files. Added many methods.
+END

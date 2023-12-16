@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-20T07:23:14.244580Z
+K 7
+svn:log
+V 157
+got the ui working by calling lwindow->CreateLayout(treectrl) and the equivalent for the right window. Must now past all code relating to the event handlers.
+END

@@ -1,0 +1,9 @@
+K 8
+svn:date
+V 27
+2010-03-11T09:07:09.775142Z
+K 7
+svn:log
+V 68
+fixed mail.pl to use pentech's mail server and cleaned up myrc.local
+END

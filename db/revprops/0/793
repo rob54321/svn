@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-02T18:13:34.420448Z
+K 7
+svn:log
+V 121
+Removed the incBackup flag as it is no longer needed since the incremental backup file list contains only modified files.
+END

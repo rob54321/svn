@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2023-12-16T05:55:20.782739Z
+K 7
+svn:log
+V 57
+removed .git-credentials as svn cannot be uploaded to git
+END

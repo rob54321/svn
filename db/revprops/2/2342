@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2011-03-21T11:11:41.299317Z
+K 7
+svn:log
+V 57
+fixed a bug where the wrong name was used to set the mode
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-28T07:44:54.754674Z
+K 7
+svn:log
+V 76
+Removed the method getLineCount() from the HistoryManager. No longer needed.
+END

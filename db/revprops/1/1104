@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-09-24T10:15:44.671696Z
+K 7
+svn:log
+V 60
+removed override file, make gz bz2 Packages and Release file
+END

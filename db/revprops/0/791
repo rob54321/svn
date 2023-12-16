@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-02T18:09:46.984955Z
+K 7
+svn:log
+V 112
+Changed incremental backup to first write a disk file of changed files, then to read that list and back them up.
+END

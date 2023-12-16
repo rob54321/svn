@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-03-14T13:33:39.386452Z
+K 7
+svn:log
+V 58
+make-live handles different versions for the custom kernel
+END

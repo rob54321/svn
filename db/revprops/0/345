@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-10-25T06:31:06.095572Z
+K 7
+svn:log
+V 99
+recurse directories for incremental backup. Incremental backup seems to work. Needs futher testing.
+END

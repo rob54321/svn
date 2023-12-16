@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-18T14:52:43.506702Z
+K 7
+svn:log
+V 157
+Changed project settings to use a java class folder rather than a project dependency. Added a repaint method so that the backup manager can repaint the tree.
+END

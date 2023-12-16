@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2021-10-30T10:52:49.185672Z
+K 7
+svn:log
+V 40
+liveinstall.sh: fixed a bug  has become 
+END

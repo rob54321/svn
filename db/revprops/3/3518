@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2021-11-12T06:19:21.821528Z
+K 7
+svn:log
+V 79
+postinst: determines no of cpus from cpuinfo, postrm only removes correct files
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-03-11T18:28:26.392000Z
+K 7
+svn:log
+V 173
+Changed invoice to handle up to 9 items. The invoice class uses an array of items. Quantity was moved to the Item class. A new method addItem was added to the Invoice class.
+END

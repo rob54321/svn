@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2020-06-23T17:50:48.292633Z
+K 7
+svn:log
+V 113
+wrote createlinuxrpirepository.txt which explains how to manually create a repository for ubuntu and raspberry pi
+END

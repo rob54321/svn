@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-09T16:39:18.083595Z
+K 7
+svn:log
+V 61
+Added methods for getting string time, date and milliseconds.
+END

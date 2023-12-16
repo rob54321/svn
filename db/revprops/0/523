@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-03-29T12:45:57.411331Z
+K 7
+svn:log
+V 99
+changed the script name box to a text box so that the foreground and background colours can be set.
+END

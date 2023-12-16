@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2015-12-03T10:54:07.492390Z
+K 7
+svn:log
+V 36
+fixed a bug in ifstatus of setdns.pl
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2020-05-11T11:18:22.959152Z
+K 7
+svn:log
+V 89
+deleted signmydebian, it should not be here. Fixed builddebiantree to work with all paths
+END

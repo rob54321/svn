@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-04T08:00:57.429970Z
+K 7
+svn:log
+V 278
+Changed FullDialog and IncDialog to be subclasses of JDialog. This was necessary because a reference to the dialog must be passed to the constructor of the BackupManager. The BackupManager uses the reference to write to the progress bar, number of files backed up on the dialog.
+END

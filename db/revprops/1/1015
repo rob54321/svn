@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+root
+K 8
+svn:date
+V 27
+2009-05-28T19:26:27.442516Z
+K 7
+svn:log
+V 51
+create destination directories if they do not exist
+END

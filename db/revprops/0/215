@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-07T15:20:35.153932Z
+K 7
+svn:log
+V 502
+replaced mytreectrl::GetDrStatus with StatusList::DetermineDirectoryStatus which checks the first generation children on disk instead of in the tree. Necessary because items are deleted in the tree when collapsed. DetermineDirectoryStatus is only called when a file is marked in the list control or when parents are marked. In all other cases like selecting or unselecting a directory the status can be determined. The statuslist class also has a loadstatuslist function which must be throughly tested.
+END

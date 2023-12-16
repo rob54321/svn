@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-03-04T08:30:20.994277Z
+K 7
+svn:log
+V 44
+fixed make-live to use new debian repository
+END

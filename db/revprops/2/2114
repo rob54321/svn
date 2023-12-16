@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-05-10T19:06:18.990354Z
+K 7
+svn:log
+V 44
+fixed myrc.local to build nvidia and vboxdrv
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-04T15:54:15.805320Z
+K 7
+svn:log
+V 165
+changed copy in the backup class to copy files one by one. Wrong approach, should make a file list from the default.bk and then show an estimate, then do the backup.
+END

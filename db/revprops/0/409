@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-28T10:54:49.193204Z
+K 7
+svn:log
+V 141
+disabled the ok button on dialogs until all the necessary fields are complete. Use idle time processing to check if all fields are filled in.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2017-10-10T14:52:54.008626Z
+K 7
+svn:log
+V 55
+removed some of the files that ubuntu-install installed
+END

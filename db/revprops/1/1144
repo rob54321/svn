@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+root
+K 8
+svn:date
+V 27
+2009-10-25T16:04:21.000264Z
+K 7
+svn:log
+V 85
+bdt now renames file then moves it to the archive. Updated files will be overwritten.
+END

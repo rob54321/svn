@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-13T20:08:31.277000Z
+K 7
+svn:log
+V 341
+Editing seems to work on the table containing all records. Changes made to record manager to allow result set to be updated. Changes made to exerciseColumn and exerciseDefaults. Removed cellEditorListener from MainWindow as it was not needed. The method setValue in the ExerciseModel handles the change of values and is called automatically.
+END

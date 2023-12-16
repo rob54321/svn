@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-19T18:52:27.930577Z
+K 7
+svn:log
+V 160
+For load selections: if the directory has all files selected then it works. Also the directory being displayed will have the selected files updated immediately.
+END

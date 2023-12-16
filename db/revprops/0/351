@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-03T06:15:14.915810Z
+K 7
+svn:log
+V 126
+added a progress dialog. Changed the incremental backup dialog to disable the start button until a job file has been selected.
+END

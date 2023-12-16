@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-11T13:59:58.990438Z
+K 7
+svn:log
+V 149
+got connect working. Extraced the selected directory by intercepting the mouse events. Need to launch the list control AddCurDirFiles. Don't know how
+END

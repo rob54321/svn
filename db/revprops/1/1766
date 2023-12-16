@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-01-09T14:51:43.772000Z
+K 7
+svn:log
+V 104
+make-live does not export from the repository. The scripts are now linked to live-linux-testing package.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-02-24T09:34:11.206000Z
+K 7
+svn:log
+V 241
+Bug in writeIncrementalFileList persists. If the directory from the status list does not exist on disk then nothing is done for that directory. Removed previous dir.exits() in if clauses. Most of the while loop is in an if (dir.exits()) now.
+END

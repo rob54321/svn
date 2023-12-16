@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-10-08T08:15:10.562217Z
+K 7
+svn:log
+V 263
+fixed a bug in LoadStatusList. When the files in a directory are partially selected and the directory does not exist on the disk then no processing of those files must take place. The line counter must be moved to the next directory entry in the status list file.
+END

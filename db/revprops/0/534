@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-04-12T10:42:51.784669Z
+K 7
+svn:log
+V 242
+editing of scripts is now done on a notebook page. The edit script dialog is no longer used. Not complete. Must update NewScipt and NewFolder methods. Must remove the editscript dialog. Must add a save and cancel mechanism to the edit window.
+END

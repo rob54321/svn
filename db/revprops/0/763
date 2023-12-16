@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-27T21:29:53.602046Z
+K 7
+svn:log
+V 83
+Fixed some bugs in the HistoryManager. Return the vector instead of separate lines.
+END

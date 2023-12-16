@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-17T21:23:12.157192Z
+K 7
+svn:log
+V 49
+added file open when reading the file into memory
+END

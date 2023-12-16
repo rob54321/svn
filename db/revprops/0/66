@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-04-26T20:22:20.658641Z
+K 7
+svn:log
+V 81
+added project files for kdevelop, added an insertdialog for insertion of records.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-05-05T07:05:09.949853Z
+K 7
+svn:log
+V 101
+the -s parameter now descends directories recursively. All the entries get added twice. Must fix this
+END

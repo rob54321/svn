@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-02-28T17:14:51.890000Z
+K 7
+svn:log
+V 87
+bdt now includes a tar.gz or bin or any file that the link points to in the debpackage.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-03T17:25:24.859466Z
+K 7
+svn:log
+V 241
+got the status list working correctly for selections. The GetDirStatus function in the tree control should be a member of the StatusList class. Must think about this. The StatusList class manages all of the statusus of files and directories.
+END

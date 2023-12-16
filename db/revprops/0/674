@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-06-17T06:53:25.065344Z
+K 7
+svn:log
+V 314
+Added all nodes as FileNodes. Root is no exception now. Added an extra panel for the textArea. Changed the layout managers and put the button at the bottom. Open sub branches get deleted when a super branch is collapsed, but somehow they return when the node is expanded. Don't know why they do not remain deleted?
+END

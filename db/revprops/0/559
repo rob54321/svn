@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-05-20T20:45:02.218300Z
+K 7
+svn:log
+V 247
+changed date picker to use the date in the grid on initialisation. Also enabled and disabled the update and delete buttons so they are enabled only when all records are shown. Show all records now displays its name in the script name text control.
+END

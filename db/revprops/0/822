@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-13T10:44:35.530232Z
+K 7
+svn:log
+V 117
+Changed the FullDialog enableStartButton method to cycle through to the next backup once the present one is finished.
+END

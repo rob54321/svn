@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-08T15:31:39.729761Z
+K 7
+svn:log
+V 98
+added a list control to left window. Must transfer files from the tree control to the list control
+END

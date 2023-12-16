@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-18T12:57:15.132000Z
+K 7
+svn:log
+V 113
+Added a tool bar to the script pane to execute scripts. Added a executeScript clause to the actionPreformed list.
+END

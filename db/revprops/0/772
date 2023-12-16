@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-28T16:47:29.684937Z
+K 7
+svn:log
+V 44
+Improved a comment in the BackupFrame class.
+END

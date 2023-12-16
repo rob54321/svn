@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-02-25T11:26:03.400165Z
+K 7
+svn:log
+V 92
+progress dialog now shows kilo bytes processed. Changed the cancel button to a close button.
+END

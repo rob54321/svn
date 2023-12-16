@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-30T13:50:31.426346Z
+K 7
+svn:log
+V 74
+Fixed a bug in ExerciseDefaults. The methods always returned the defaults.
+END

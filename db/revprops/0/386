@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-21T10:21:04.186505Z
+K 7
+svn:log
+V 123
+myt build with dialogblocks seems to work to full functionality. Must still include the Help file, tool bar and status bar.
+END

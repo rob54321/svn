@@ -1,0 +1,685 @@
+id: 9-2311.0-1384.r2311/3
+type: file
+count: 0
+text: 1269 3 30 18 73ae6bfcc0b1e5dabbd1bdedb79a26a5 5422f02bb361117800efa2a66b416a8a3dce032e 2310-1s6/_c
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_4u
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g0bsinitvals4.fw
+copyroot: 1384 /root/live-linux
+
+id: d-2311.0-1384.r2311/4
+type: file
+count: 0
+text: 1269 4 143 158 7c87b2e451af890161a06f6d38eec154 01a6414fccff7c965d46f90aca01b75f2b9f0e07 2310-1s6/_f
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_4v
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g0bsinitvals5.fw
+copyroot: 1384 /root/live-linux
+
+id: g-2311.0-1384.r2311/5
+type: file
+count: 0
+text: 1269 5 143 158 6b5bce72b573af68d505f33ad1697a64 844909570f8a6ea90f1771bd0191c0e4c917ed87 2310-1s6/_i
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_4w
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g0bsinitvals9.fw
+copyroot: 1384 /root/live-linux
+
+id: j-2311.0-1384.r2311/6
+type: file
+count: 0
+text: 1269 6 1996 2680 2c56aa44d18acde9c675192317a1f8db c4a52cb28a306501f108a786098390fbae8fcaec 2310-1s6/_l
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_4x
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g0initvals4.fw
+copyroot: 1384 /root/live-linux
+
+id: m-2311.0-1384.r2311/7
+type: file
+count: 0
+text: 1269 7 1171 1840 d3aa01ec0977c7af1a736182b9ccd917 598698970ed9d3743710c3e1cce0288c3c07abf4 2310-1s6/_o
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_4y
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g0initvals5.fw
+copyroot: 1384 /root/live-linux
+
+id: p-2311.0-1384.r2311/8
+type: file
+count: 0
+text: 1269 8 1271 2002 66fdf887040aca7a84f24f208db09d5a 6afb1f5ae734e98c5e25e1f791cb4b6eb0c5bb66 2310-1s6/_r
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_4z
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g0initvals9.fw
+copyroot: 1384 /root/live-linux
+
+id: s-2311.0-1384.r2311/9
+type: file
+count: 0
+text: 1269 9 143 158 f8bd6bd20cc2a40660a54b168406415f 362a681071461d42f8c6ffea8d10d50a591cc005 2310-1s6/_u
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_50
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g1bsinitvals13.fw
+copyroot: 1384 /root/live-linux
+
+id: v-2311.0-1384.r2311/10
+type: file
+count: 0
+text: 1269 10 143 158 a5b610efbb0c0a49da54563c1888335a 9ca13a367c0f26171e22c0335b8434700ca33cb1 2310-1s6/_x
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_51
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g1bsinitvals5.fw
+copyroot: 1384 /root/live-linux
+
+id: y-2311.0-1384.r2311/11
+type: file
+count: 0
+text: 1269 11 143 158 7d903f9f55d96d418ec732b5300b2c4e 4b46dbe0a67e5d42b20095b85a067a114e8318ac 2310-1s6/_10
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_52
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g1bsinitvals9.fw
+copyroot: 1384 /root/live-linux
+
+id: 11-2311.0-1384.r2311/12
+type: file
+count: 0
+text: 1269 12 1400 2080 e09c7ad6acd501914bd40c640e86082f 1d57ce7d754e9b9ecab96e14e636824fe08e3e7d 2310-1s6/_13
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_53
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g1initvals13.fw
+copyroot: 1384 /root/live-linux
+
+id: 14-2311.0-1384.r2311/13
+type: file
+count: 0
+text: 1269 13 1171 1840 bc1a877b481f15269ea9a698a7b4c68f 4629d91cf5f4406dd4941b978d0aa6bb7f3155d4 2310-1s6/_16
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_54
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g1initvals5.fw
+copyroot: 1384 /root/live-linux
+
+id: 17-2311.0-1384.r2311/14
+type: file
+count: 0
+text: 1269 14 1271 2002 c56c50db39beb7fa33d32af5c0d07424 60518c7b8c237eabdb30ea1d52196f8575ece812 2310-1s6/_19
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_55
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g1initvals9.fw
+copyroot: 1384 /root/live-linux
+
+id: 1a-2311.0-1384.r2311/15
+type: file
+count: 0
+text: 1269 15 143 158 422ff5508242f45df3e23e249e915de2 f4094cc436b89461693d4040d853e0d1e2a970f7 2310-1s6/_1c
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_56
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/b0g0bsinitvals13.fw
+copyroot: 1384 /root/live-linux
+
+id: 1d-2311.0-1384.r2311/16
+type: file
+count: 0
+text: 1269 16 30 18 d54fd6fd0fa0a6f598ea60144204d689 319f2715801dfc60feb2c11517e516200ba37a3c 2310-1s6/_1f
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_57
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/b0g0bsinitvals4.fw
+copyroot: 1384 /root/live-linux
+
+id: 1g-2311.0-1384.r2311/17
+type: file
+count: 0
+text: 1269 17 143 158 5fc3a6df6564eff9aeb810ed1efcf2f4 fabe1c358e58489ed2208cfcb88272d845596d7a 2310-1s6/_1i
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_58
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/b0g0bsinitvals5.fw
+copyroot: 1384 /root/live-linux
+
+id: 1j-2311.0-1384.r2311/18
+type: file
+count: 0
+text: 1269 18 143 158 7fc93e321af73757ee957ec0abb97325 e2fc8183811678a45683bee773ac5342e5dcdc64 2310-1s6/_1l
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_59
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/b0g0bsinitvals9.fw
+copyroot: 1384 /root/live-linux
+
+id: 1m-2311.0-1384.r2311/19
+type: file
+count: 0
+text: 1269 19 1381 2080 09c42336d6cba48b0bbf05601a3641f4 5f05bc979d369e14b4f7592dcd4fe61d13734857 2310-1s6/_1o
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5a
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/b0g0initvals13.fw
+copyroot: 1384 /root/live-linux
+
+id: 1p-2311.0-1384.r2311/20
+type: file
+count: 0
+text: 1269 20 1983 2680 dd1b96334088ad775ba8e29805fb460c 32ddccf9141e466f353d5f053ba078e03fad0f09 2310-1s6/_1r
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5b
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/b0g0initvals4.fw
+copyroot: 1384 /root/live-linux
+
+id: 1s-2311.0-1384.r2311/21
+type: file
+count: 0
+text: 1269 21 1153 1840 d7352ab7502a1a667235acd2945501c3 b4b3410f342da20d922a7d7c9a995c92f8485381 2310-1s6/_1u
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5c
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/b0g0initvals5.fw
+copyroot: 1384 /root/live-linux
+
+id: 1v-2311.0-1384.r2311/22
+type: file
+count: 0
+text: 1269 22 1247 2002 83cb373719223299783c24a3a3456ace dd04f737edd369d5d96ad9de146491aa4424c6a0 2310-1s6/_1x
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5d
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/b0g0initvals9.fw
+copyroot: 1384 /root/live-linux
+
+id: 1y-2311.0-1384.r2311/23
+type: file
+count: 0
+text: 1269 15 143 158 422ff5508242f45df3e23e249e915de2 f4094cc436b89461693d4040d853e0d1e2a970f7 2310-1s6/_20
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5e
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/lp0bsinitvals13.fw
+copyroot: 1384 /root/live-linux
+
+id: 21-2311.0-1384.r2311/24
+type: file
+count: 0
+text: 1269 15 143 158 422ff5508242f45df3e23e249e915de2 f4094cc436b89461693d4040d853e0d1e2a970f7 2310-1s6/_23
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5f
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/lp0bsinitvals14.fw
+copyroot: 1384 /root/live-linux
+
+id: 24-2311.0-1384.r2311/25
+type: file
+count: 0
+text: 1269 15 143 158 422ff5508242f45df3e23e249e915de2 f4094cc436b89461693d4040d853e0d1e2a970f7 2310-1s6/_26
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5g
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/lp0bsinitvals15.fw
+copyroot: 1384 /root/live-linux
+
+id: 27-2311.0-1384.r2311/26
+type: file
+count: 0
+text: 1269 23 2655 3618 28421605cc3a716e122754696a497456 e4b3aade7c8b9b8a68f39423a59a2f5808011689 2310-1s6/_29
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5h
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/lp0initvals13.fw
+copyroot: 1384 /root/live-linux
+
+id: 2a-2311.0-1384.r2311/27
+type: file
+count: 0
+text: 1269 24 1365 2064 3225f658f0ad44c79989f5afbac05857 6944d3102171b40915120736e7c858df26d24cbe 2310-1s6/_2c
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5i
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/lp0initvals14.fw
+copyroot: 1384 /root/live-linux
+
+id: 2d-2311.0-1384.r2311/28
+type: file
+count: 0
+text: 1269 25 1354 2052 8801aa86633bfb0b2c97d595da93eee9 99775bb8ea7b3f5986e172e68c0cf43907246d9c 2310-1s6/_2f
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5j
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/lp0initvals15.fw
+copyroot: 1384 /root/live-linux
+
+id: 2g-2311.0-1384.r2311/29
+type: file
+count: 0
+text: 1269 26 143 158 2ad1d804ec4c76497f91768063c9d9f5 c65df28937413e7f4c77615b06262144e1db2939 2310-1s6/_2i
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5k
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/n0absinitvals11.fw
+copyroot: 1384 /root/live-linux
+
+id: 2j-2311.0-1384.r2311/30
+type: file
+count: 0
+text: 1269 27 143 158 5f84fc5f326cbebdf4bdfe684aca941f 816ed204ca699946b0e315740efb1ffdfdd2ee7f 2310-1s6/_2l
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5l
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/n0bsinitvals11.fw
+copyroot: 1384 /root/live-linux
+
+id: 2m-2311.0-1384.r2311/31
+type: file
+count: 0
+text: 1269 28 1391 2100 239e46e3a9e85eba71b4ac66f22bc2df 09e345061846c269f31a4f7792c68c0b9d74c7e1 2310-1s6/_2o
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5m
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/n0initvals11.fw
+copyroot: 1384 /root/live-linux
+
+id: 2p-2311.0-1384.r2311/32
+type: file
+count: 0
+text: 1269 29 901 1320 056cf484a99c2191fb3bb913b9b5300a 2cc0cf9ec946d415c14ee2a9d044360b34d8a0b6 2310-1s6/_2r
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5n
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/pcm4.fw
+copyroot: 1384 /root/live-linux
+
+id: 2s-2311.0-1384.r2311/33
+type: file
+count: 0
+text: 1269 30 907 1320 52c23becb937e692088baf750a40c15f 5b39161a38e34b9280bb5f6e4e30073bc361bdad 2310-1s6/_2u
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5o
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/pcm5.fw
+copyroot: 1384 /root/live-linux
+
+id: 2v-2311.0-1384.r2311/34
+type: file
+count: 0
+text: 1269 31 20398 29864 d973f147770c8302cc06d42bf2df4902 b8bf2ee9031b07a9028130f389f5a03fafa710a0 2310-1s6/_2x
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5p
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/ucode11.fw
+copyroot: 1384 /root/live-linux
+
+id: 2y-2311.0-1384.r2311/35
+type: file
+count: 0
+text: 1269 32 21885 32232 de65219d65f18d33a208f4bafb56b553 fc68a1b670ce5825851669328057ab8919d9c5cb 2310-1s6/_30
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5q
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/ucode13.fw
+copyroot: 1384 /root/live-linux
+
+id: 31-2311.0-1384.r2311/36
+type: file
+count: 0
+text: 1269 33 21096 31384 d3a4e964980d0d3da57a1d18561d012e 2fc8789427d587cf0a7e55078a81d02938317a3f 2310-1s6/_33
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5r
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/ucode14.fw
+copyroot: 1384 /root/live-linux
+
+id: 34-2311.0-1384.r2311/37
+type: file
+count: 0
+text: 1269 34 20907 30488 e39425d806d1a4da812a05d2557e3ed6 00f682b75d826feac16cd9f67bae80d5270efaff 2310-1s6/_36
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5s
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/ucode15.fw
+copyroot: 1384 /root/live-linux
+
+id: 37-2311.0-1384.r2311/38
+type: file
+count: 0
+text: 1269 35 14223 20176 4179f0d9688912ca985e9a90537adacf e00a45aab9f15b601af01c2a99147564718b4c03 2310-1s6/_39
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5t
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/ucode4.fw
+copyroot: 1384 /root/live-linux
+
+id: 3a-2311.0-1384.r2311/39
+type: file
+count: 0
+text: 1269 36 15611 22384 a1d3eb9650cc338599d05d342c707349 c3162ef0646fd7f893d481b41d48ba7d9e30e7c4 2310-1s6/_3c
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5u
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/ucode5.fw
+copyroot: 1384 /root/live-linux
+
+id: 3d-2311.0-1384.r2311/40
+type: file
+count: 0
+text: 1269 37 17514 25160 e75f0408578d422a4f525bec2cbd1e2c 18ecdb820d4333ad1b967509d71cad07cad9dbbb 2310-1s6/_3f
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5v
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43/ucode9.fw
+copyroot: 1384 /root/live-linux
+
+DELTA
+SVN  ê ÖÄê ê "K 18
+a0g0bsinitvals4.fw
+V 26
+file 9-2311.0-1384.r ?/3
+8  58 d8  48 98 g8  58 6® ¶ j6  66 § m6  76 ¢ p6  86 9¢ 1J*13€ s9  99 É9 ß 7Év8  /109 ™ 9 y9 19 7´ M© 8q /119 29 Ü9 © 8 48 .
+8 ® 8 78 .99
+bû´ a; 18; Ÿu ¢15: Á §19: È ®1=7Æ YÁ ´1=69 Â ≠2<
+8 „ ¨2;
+8 · ¨2:G8
+lpg‚ ≠2<: ‰ 2Æ2>: Ê 2∞2=6Æ é2∞2;
+8 ™ ≠29
+8 ® ´27W8
+n0as1sÂ2´2887
+nè9 ™3965
+n7 ®38\7
+pcmû3.. î3"}0
+ucodeé é32 £0Ü32 ƒ 3~32 » 3v39« b n3˛0 ` f3Ù0 ¥3^p40
+END
+ENDREP
+id: 7-2311.0-1384.r2311/42
+type: dir
+count: 0
+text: 2311 41 685 2080 483e225773380cd35f12cc0752c22056 - -
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43
+copyroot: 1384 /root/live-linux
+
+id: 3h-2311.0-1384.r2311/43
+type: file
+count: 0
+text: 1269 38 30 18 8bf2795a44f4df12d494dd4f760b0fb8 d2de1d3a57e05da83998c970c08b81b999a224fc 2310-1s6/_3k
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5w
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/a0g0bsinitvals2.fw
+copyroot: 1384 /root/live-linux
+
+id: 3l-2311.0-1384.r2311/44
+type: file
+count: 0
+text: 1269 39 148 158 61bfb28a3a14d9a8a443d2f8731a92b8 4c6a51a4546409b64b883c328273199c8158f8a8 2310-1s6/_3n
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5x
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/a0g0bsinitvals5.fw
+copyroot: 1384 /root/live-linux
+
+id: 3o-2311.0-1384.r2311/45
+type: file
+count: 0
+text: 1269 40 1970 2520 6464c5da4f7c2b0aaf30a8d69678cd3c 9ce9daf377650ff4fb1f07e08a980a8871d46283 2310-1s6/_3q
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5y
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/a0g0initvals2.fw
+copyroot: 1384 /root/live-linux
+
+id: 3r-2311.0-1384.r2311/46
+type: file
+count: 0
+text: 1269 41 1189 1818 9fd6336cbf5c4c5673517bf79a527c81 66b0dfa10b54f97fa9e8316548928ec8c20f9aef 2310-1s6/_3t
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_5z
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/a0g0initvals5.fw
+copyroot: 1384 /root/live-linux
+
+id: 3u-2311.0-1384.r2311/47
+type: file
+count: 0
+text: 1269 42 148 158 82935315690469dad3ac416161cb5f2c 937b52e029383006948c418a78684447a9e5e850 2310-1s6/_3w
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_60
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/a0g1bsinitvals5.fw
+copyroot: 1384 /root/live-linux
+
+id: 3x-2311.0-1384.r2311/48
+type: file
+count: 0
+text: 1269 43 1189 1818 adeed888f80a33ed5d46ba947fa5c668 f357949f2b1c0b5b95f1d410f1a99aefb7efcf16 2310-1s6/_3z
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_61
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/a0g1initvals5.fw
+copyroot: 1384 /root/live-linux
+
+id: 40-2311.0-1384.r2311/49
+type: file
+count: 0
+text: 1269 44 30 18 a5f223152f08ae896c7604880a6ed1f1 72f51aa37e1c90e1edef8435dfa8b1146e0f37bd 2310-1s6/_42
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_62
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/b0g0bsinitvals2.fw
+copyroot: 1384 /root/live-linux
+
+id: 43-2311.0-1384.r2311/50
+type: file
+count: 0
+text: 1269 45 148 158 8c837e9292c26f00c72d755178848576 27aadfe957fcba34fd1598171bdf332b60743062 2310-1s6/_45
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_63
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/b0g0bsinitvals5.fw
+copyroot: 1384 /root/live-linux
+
+id: 46-2311.0-1384.r2311/51
+type: file
+count: 0
+text: 1269 46 1952 2520 5b2ff81fd04baf7648a39ab55408b371 c8bb02d740fb75ce6d271bcd69e119a80c1a87db 2310-1s6/_48
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_64
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/b0g0initvals2.fw
+copyroot: 1384 /root/live-linux
+
+id: 49-2311.0-1384.r2311/52
+type: file
+count: 0
+text: 1269 47 1169 1818 3f2d6f03957e96ab319fb9c4ba6b3f54 03d611fe1da7c292a3d7ce0f4d17c5cef93771e5 2310-1s6/_4b
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_65
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/b0g0initvals5.fw
+copyroot: 1384 /root/live-linux
+
+id: 4c-2311.0-1384.r2311/53
+type: file
+count: 0
+text: 1269 29 901 1320 056cf484a99c2191fb3bb913b9b5300a 2cc0cf9ec946d415c14ee2a9d044360b34d8a0b6 2310-1s6/_4e
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_66
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/pcm4.fw
+copyroot: 1384 /root/live-linux
+
+id: 4f-2311.0-1384.r2311/54
+type: file
+count: 0
+text: 1269 30 907 1320 52c23becb937e692088baf750a40c15f 5b39161a38e34b9280bb5f6e4e30073bc361bdad 2310-1s6/_4h
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_67
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/pcm5.fw
+copyroot: 1384 /root/live-linux
+
+id: 4i-2311.0-1384.r2311/55
+type: file
+count: 0
+text: 1269 48 15041 21680 b762c37266b5500cd9e71d64a1506db4 f73dcc70ce2d72ed5ac23af3ef80eb57681ced97 2310-1s6/_4k
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_68
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/ucode11.fw
+copyroot: 1384 /root/live-linux
+
+id: 4l-2311.0-1384.r2311/56
+type: file
+count: 0
+text: 1269 49 11657 16360 462f9fe52e6f1fe85c82e737d2bc1531 8b3ee9605dc2559e1b14ad64d3cdf1b488ab6efe 2310-1s6/_4n
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_69
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/ucode2.fw
+copyroot: 1384 /root/live-linux
+
+id: 4o-2311.0-1384.r2311/57
+type: file
+count: 0
+text: 1269 50 14054 20096 909a45424f9f940bf516c47230c6dc87 ddf9305b0dec95422748b4ee8711f8ff0a6812a8 2310-1s6/_4q
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_6a
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/ucode4.fw
+copyroot: 1384 /root/live-linux
+
+id: 4r-2311.0-1384.r2311/58
+type: file
+count: 0
+text: 1269 51 15454 22280 7d4973427cf6312c4057b2d15889c1e8 0b00c0eac1488742082fd7e35c7f598ba92ba8f7 2310-1s6/_4t
+props: 30 14 65 53 113136892f2137aa0116093a524ade0b - 2310-1s6/_6b
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/ucode5.fw
+copyroot: 1384 /root/live-linux
+
+DELTA
+SVN  Ü\Ç3ÄÜ\Ü\#K 18
+a0g0bsinitvals2.fw
+V 28
+file 3h-2311.0-1384.r O/43
+:  5: l: 4: 6t r o8 58 p r8 68 ‰ 1‰ : u: 7: ™ 1™ 8 x8 88 ?8
+bV	/40: 9: t /43:   50: 6t ¨ »/468 18 p 98 ™2
+K 7
+pcm4Ù/4c.  .. \ f. "õ0
+ucode11` i2  91 ˆ Ñ50 ¿ |5
+0 ¬ tp58
+END
+ENDREP
+id: 3g-2311.0-1384.r2311/60
+type: dir
+count: 0
+text: 2311 59 322 860 a8253ab7e3f5b260fdc97b6f7da70139 - -
+cpath: /root/live-linux/chroot_local-includes/lib/firmware/b43legacy
+copyroot: 1384 /root/live-linux
+
+DELTA
+SVN  [JÄ[[K 3
+b43
+V 26
+dir 7-2311.0-1384.r p/42
+K 9( `legacy. 7. /3g/  p60
+END
+ENDREP
+id: 5-2311.0-1384.r2311/62
+type: dir
+count: 0
+text: 2311 61 86 91 4394690b8f8e67a2d8c5c74fc06f6b59 - -
+cpath: /root/live-linux/chroot_local-includes/lib/firmware
+copyroot: 1384 /root/live-linux
+
+DELTA
+SVN  12±1K 8
+firmware
+V 26
+dir 5-2311.0-1384.r2311/62
+END
+ENDREP
+id: 3-2311.0-1384.r2311/64
+type: dir
+count: 0
+text: 2311 63 61 49 62b722024d7852b35f30d894c5019622 - -
+cpath: /root/live-linux/chroot_local-includes/lib
+copyroot: 1384 /root/live-linux
+
+DELTA 2310 11 19
+SVN }Å%&) • W&%3
+lib
+V 26
+dir 3-2311.0-1384.r2311/64ENDREP
+id: i-2293.0-1384.r2311/66
+type: dir
+pred: i-2293.0-1384.r2310/12
+count: 8
+text: 2311 65 55 165 17d35ff757867d7cd2214f4db61a3e9d - -
+cpath: /root/live-linux/chroot_local-includes
+copyroot: 1384 /root/live-linux
+
+DELTA 2310 13 23
+SVN Å-Å-	 Å$ ÑÅ(1/66ENDREP
+id: 0-1238.0-1384.r2311/68
+type: dir
+pred: 0-1238.0-1384.r2310/14
+count: 103
+text: 2311 67 25 173 c91976160c678e17002f674f63b4af62 - -
+cpath: /root/live-linux
+copyroot: 1384 /root/live-linux
+
+DELTA 2310 15 18
+SVN [[+ Ñ,/1/68ENDREP
+id: 0-578.0.r2311/70
+type: dir
+pred: 0-578.0.r2310/16
+count: 523
+text: 2311 69 20 91 3a4516089f8c355858600a830d9df887 - -
+cpath: /root
+copyroot: 0 /
+
+DELTA 2310 17 23
+SVN ÅÅ	 Å ÑÅ1/70ENDREP
+id: 0.0.r2311/2
+type: dir
+pred: 0.0.r2310/2
+count: 2311
+text: 2311 71 25 145 583d1ef77e208b6579a1afca6131caa7 - -
+cpath: /
+copyroot: 0 /
+
+_3.0-1384.t2310-1s6 add-dir false false false /root/live-linux/chroot_local-includes/lib
+
+_5.0-1384.t2310-1s6 add-dir false false false /root/live-linux/chroot_local-includes/lib/firmware
+
+_7.0-1384.t2310-1s6 add-dir false false false /root/live-linux/chroot_local-includes/lib/firmware/b43
+
+_9.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g0bsinitvals4.fw
+
+_d.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g0bsinitvals5.fw
+
+_g.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g0bsinitvals9.fw
+
+_j.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g0initvals4.fw
+
+_m.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g0initvals5.fw
+
+_p.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g0initvals9.fw
+
+_s.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g1bsinitvals13.fw
+
+_v.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g1bsinitvals5.fw
+
+_y.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g1bsinitvals9.fw
+
+_11.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g1initvals13.fw
+
+_14.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g1initvals5.fw
+
+_17.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/a0g1initvals9.fw
+
+_1a.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/b0g0bsinitvals13.fw
+
+_1d.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/b0g0bsinitvals4.fw
+
+_1g.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/b0g0bsinitvals5.fw
+
+_1j.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/b0g0bsinitvals9.fw
+
+_1m.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/b0g0initvals13.fw
+
+_1p.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/b0g0initvals4.fw
+
+_1s.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/b0g0initvals5.fw
+
+_1v.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/b0g0initvals9.fw
+
+_1y.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/lp0bsinitvals13.fw
+
+_21.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/lp0bsinitvals14.fw
+
+_24.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/lp0bsinitvals15.fw
+
+_27.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/lp0initvals13.fw
+
+_2a.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/lp0initvals14.fw
+
+_2d.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/lp0initvals15.fw
+
+_2g.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/n0absinitvals11.fw
+
+_2j.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/n0bsinitvals11.fw
+
+_2m.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/n0initvals11.fw
+
+_2p.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/pcm4.fw
+
+_2s.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/pcm5.fw
+
+_2v.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/ucode11.fw
+
+_2y.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/ucode13.fw
+
+_31.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/ucode14.fw
+
+_34.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/ucode15.fw
+
+_37.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/ucode4.fw
+
+_3a.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/ucode5.fw
+
+_3d.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43/ucode9.fw
+
+_3g.0-1384.t2310-1s6 add-dir false false false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy
+
+_3h.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/a0g0bsinitvals2.fw
+
+_3l.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/a0g0bsinitvals5.fw
+
+_3o.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/a0g0initvals2.fw
+
+_3r.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/a0g0initvals5.fw
+
+_3u.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/a0g1bsinitvals5.fw
+
+_3x.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/a0g1initvals5.fw
+
+_40.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/b0g0bsinitvals2.fw
+
+_43.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/b0g0bsinitvals5.fw
+
+_46.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/b0g0initvals2.fw
+
+_49.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/b0g0initvals5.fw
+
+_4c.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/pcm4.fw
+
+_4f.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/pcm5.fw
+
+_4i.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/ucode11.fw
+
+_4l.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/ucode2.fw
+
+_4o.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/ucode4.fw
+
+_4r.0-1384.t2310-1s6 add-file true true false /root/live-linux/chroot_local-includes/lib/firmware/b43legacy/ucode5.fw
+
+
+L2P-INDEX
+áÄ@èH ÑÀìÌ»öûûûûû†¢§®¶¶®¢¶¶®¶¶¶¶¶¶¶¶¶¶§§ííûûûûúúúÙ
+îÆ≤≤≤≤≤Æ≤≤≤ûû™®®®û†∆ÜîÙû®bÄX¨P2L-INDEX
+áπ€ÄÄ@˛ Õ: £æï¡œ ∏’∞§	œ ùêﬂÜœ úÕ˙Ûœ …âñ2œ ö≠ÿ£– ∂êÆh— õ∑ØÜ“ ≠Ö˙◊‘ √Õ∂—
+” ª †‹” éóüŒ‘ ßπ®˙— ∫àÉ	” óˇ∞è”  ¸¬Ú‘ Ñ»˛Â” €ô´∫” »Ø≥ö” æŒ÷Õ
+” ‡‚®Ú” ¯”®É” ¥±Õâ” õÄ‚∫” À¢Ñ˚	” ∫◊ÖÓ” —ˇ™¢“ ∑∏Óå“ ñ˙òÏ… ÕÆØﬂ… ¬û≈Íœ áí⁄–œ €ﬂ‘´œ ﬂ…≤àœ ≈√ª∞Œ ©Ë ≈Œ ª≤≈ÏŒ ≈Ø“Ñ∫
+ Ø‡∏˙  Ïƒ°⁄◊ €÷“†Ÿ  µ≥õŸ ƒ˚¸¨Ÿ Å» µ	Ÿ Å°¶CŸ ≤”«¯◊ ¬ÑÊóŸ øÙ€¿
+Ÿ óÀîŸ πÁ˘˙œ å¶¶Ìœ ≈Ωƒí’ ”É†ﬁ‘ ®º®Ÿ‘ ˝ﬂ“µ‘ ñ¯œóœ
+ ÏÒ›é– Ñö∂∏c
+ °è±§√ Ó˚® J
+ ¡Ô¿ÿ∫ Úß‹
+O
+ ™í¥¥‘ ≥™ŒÂ	1
+ ∆‰û¯¿ “πÒÿ
+,
+ âµÈñ Ω‹å˘1
+ À„Ó¡ä… –ñÿÚ¯5 ˛πŸ⁄	«§>  28089 1830c071f3b6bc478c984c5d613630b9 28252 9c9b9385cbcfec2430ca74b96967a2e6M

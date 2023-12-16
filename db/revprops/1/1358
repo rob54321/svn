@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-11-22T07:46:59.134723Z
+K 7
+svn:log
+V 67
+fixed myrc.local to turn network-manager off for intel pro wireless
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-01T19:56:09.710018Z
+K 7
+svn:log
+V 242
+Changed the backup manager to use a file list from disk rather than the status list as a backup list. If a directory is marked only the directory must be entered into the file by the status list. The backup manager must recurse the directory.
+END

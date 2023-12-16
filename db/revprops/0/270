@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-09-24T21:42:52.071439Z
+K 7
+svn:log
+V 68
+changed Makefile to make static, shared, debug and release versions.
+END

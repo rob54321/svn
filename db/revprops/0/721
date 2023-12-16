@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-12T15:45:23.455890Z
+K 7
+svn:log
+V 98
+Added methods to zip files from the status list string. Empty directories are not added correctly.
+END

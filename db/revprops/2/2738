@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2014-07-15T12:39:16.281164Z
+K 7
+svn:log
+V 77
+removed preinst postrm prerm. Too complicated to add repository using apt-get
+END

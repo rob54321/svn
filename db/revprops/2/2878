@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2015-11-18T15:54:58.998922Z
+K 7
+svn:log
+V 76
+posinst now uses sed correctly to edit lines with option domain-name-servers
+END

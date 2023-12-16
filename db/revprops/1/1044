@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-06-26T14:25:35.944822Z
+K 7
+svn:log
+V 23
+jigdo5 uses getopts now
+END

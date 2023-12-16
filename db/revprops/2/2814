@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2015-09-11T11:42:43.366365Z
+K 7
+svn:log
+V 81
+bdt now saves configuration automatically to a file and reloads it automatically.
+END

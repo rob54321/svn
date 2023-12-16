@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-09T12:20:32.241056Z
+K 7
+svn:log
+V 210
+changed SaveBackupList in the StatusList class to save each and every file to the default.bk file. The file no longer will contain directories. Done so the progress bar can work more efficiently and accurately.
+END

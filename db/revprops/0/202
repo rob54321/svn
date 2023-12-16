@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-31T17:47:43.817717Z
+K 7
+svn:log
+V 453
+major change. revision before this works correctly except performance is very slow. Now when an item is collapsed all children are deleted. When an item is expanded children are then added to the node. A StatusList class manages the status of directories because children are deleted when an item is collapsed. The selection of files in the list control still has to be sorted out. A new class SelectionList manages the saving of selections to disk etc.
+END

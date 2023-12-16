@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-26T10:48:40.632497Z
+K 7
+svn:log
+V 212
+changed SaveBackupList method, removed the section of code that removes children from the backup list. Not necessary now because a selected directory never has children in the status list. Improved a few comments
+END

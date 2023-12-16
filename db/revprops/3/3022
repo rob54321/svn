@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2018-07-13T08:39:23.704993Z
+K 7
+svn:log
+V 75
+fixed a bug in homehdd, would not backup if there were no parameters passed
+END

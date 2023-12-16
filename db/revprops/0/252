@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-09-06T19:54:15.815521Z
+K 7
+svn:log
+V 377
+changed the backup process. OnBackup in myframe now creates the destination directory so that the default selection list can be save there for incremental backups. Also the jobname file is saved there as well since it is part of that specific full backup. Must still include warning about deleting the directory contents when a new full backup is done in an existing directory.
+END

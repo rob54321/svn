@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-10T19:41:56.540149Z
+K 7
+svn:log
+V 161
+fixed a bug in SaveBackupList in the StatusList class and disabled logging by wxDir in the StatusList class to prevent dialog messsages about missing directories
+END

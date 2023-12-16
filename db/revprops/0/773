@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-30T11:23:51.150734Z
+K 7
+svn:log
+V 108
+changed parameters to the constructor of FullDialog so that it can be used for full and incremental backups.
+END

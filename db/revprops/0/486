@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-01-26T20:23:14.580582Z
+K 7
+svn:log
+V 132
+changed bookmarks so that a panel contains bookmarks. In dbgrid the panel is included in the right hand pane. Still have lots to do.
+END

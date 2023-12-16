@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-04-04T06:58:40.208078Z
+K 7
+svn:log
+V 42
+wrote sub to check file existence in rs.pl
+END

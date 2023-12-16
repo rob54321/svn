@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-10-04T11:18:28.096781Z
+K 7
+svn:log
+V 67
+fixed bugs in make-live. Dir must be empty before an image is made.
+END

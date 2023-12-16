@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-12T15:00:07.513152Z
+K 7
+svn:log
+V 118
+the status bar is owned by the list control, because the treectrl and listctrl use the statusbar. Idle events are gone
+END

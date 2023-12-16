@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-14T09:56:58.015954Z
+K 7
+svn:log
+V 129
+The directory where the zip files are kept has a count appended to the name. If the directory exists the count is increased by 1.
+END

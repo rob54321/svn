@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-10T08:08:01.214000Z
+K 7
+svn:log
+V 150
+Implemented an array exerciseSavedData of booleans to indicate if an exercise record has been saved in the database. Must still do the event handling.
+END

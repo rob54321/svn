@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-01-17T09:24:49.561718Z
+K 7
+svn:log
+V 28
+fixed an issue with postinst
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-10T16:48:34.738000Z
+K 7
+svn:log
+V 108
+Changed the default directory for pdd files back to /mnt/hdint/jbackup/polar/polar precision/Robert Key/2009
+END

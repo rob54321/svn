@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2015-07-29T13:51:20.223925Z
+K 7
+svn:log
+V 49
+updated installsmb.sh to install samba34 to media
+END

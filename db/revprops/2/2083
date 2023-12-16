@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-04-20T14:41:43.069303Z
+K 7
+svn:log
+V 35
+fixed init-my-linux and buildkernel
+END

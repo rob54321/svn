@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-09-25T07:42:11.702942Z
+K 7
+svn:log
+V 278
+fixed a bug in list ctrl. Must initialise m_current_directory member in mylistctrl to prevent and undefined directory being displayed when selections are loaded. Also changed the Makefile so that BUILD=release must be used to build a release build. The default is a debug build.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2022-02-12T05:39:07.032421Z
+K 7
+svn:log
+V 65
+added rpihttps.txt for setting up a https raspberry pi web server
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2021-09-12T06:28:52.691325Z
+K 7
+svn:log
+V 69
+init-rpi-first now has the option -a to edit sources.list to file:///
+END

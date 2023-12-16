@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-31T14:21:05.513870Z
+K 7
+svn:log
+V 325
+changed the AddCurDirChildren in the list control to use GetStatus for a file and let the StatusList class make all decisions. AddCurDirChildren is now much simpler. Also fixed a bug in GetStatus. When a directory is not in the list it may have a selected parent or it may be unselected. Put this in the GetStatus for a file.
+END

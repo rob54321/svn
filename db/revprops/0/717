@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-11T13:24:16.340988Z
+K 7
+svn:log
+V 99
+Wrote a method to do a buffered copy from the input stream to the zip output stream. Seems to work.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-07-29T16:14:10.352451Z
+K 7
+svn:log
+V 76
+myrc.local now counts the number of times it is executed stops after 1 times
+END

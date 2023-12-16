@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-07T19:10:10.873000Z
+K 7
+svn:log
+V 102
+Changed aerobic time to add up time in the light zones.
+Total time still does not round off correctly.
+END

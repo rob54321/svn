@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-06-18T06:31:45.080861Z
+K 7
+svn:log
+V 154
+Added a TreeCellRenderer class as subclass of DefaultTreeCellRenderer. Also registered tree expansion events. Added a clear button to clear the text area.
+END

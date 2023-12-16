@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2013-01-23T15:52:11.929264Z
+K 7
+svn:log
+V 83
+make-debian-live setup for live-build 3.0-b6-1 and mirrordebian setup to mirror sid
+END

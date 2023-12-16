@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-25T17:28:20.441046Z
+K 7
+svn:log
+V 245
+Selections seem to work correctly with the StatusList class managing all selections. Fixed a bug in SetPartial, forgot to set the file status to ALL_SELECTED when a child directory had been unselected and status changed from selected to partial.
+END

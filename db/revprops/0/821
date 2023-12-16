@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-11T15:52:26.251348Z
+K 7
+svn:log
+V 172
+Fixed a bug in the history manager. Validated lists must also check when an item is added that it does not already exist. Incremental backup seems to work continuously now.
+END

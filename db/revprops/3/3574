@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2022-05-04T14:09:50.179822Z
+K 7
+svn:log
+V 69
+liveinstall.sh does not add key for debhome. DEB822 standard used now
+END

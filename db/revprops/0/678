@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-06-24T06:10:33.180088Z
+K 7
+svn:log
+V 136
+Changing the status of a node to be kept in the StatusList instead of the FileNode class. The StatusList class is in the Status Project.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-02-24T09:03:04.147000Z
+K 7
+svn:log
+V 211
+Fixed a bug in writeIncrementalFileList in BackupMangager. If a directory exists in the status list but not a disk a null pointer exception would occur. The directory existence is checked in each else if clause.
+END

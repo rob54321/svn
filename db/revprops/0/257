@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-09-13T11:32:28.808490Z
+K 7
+svn:log
+V 83
+changed project to kdevelop, removed all warnings when compiler switch set to -Wall
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-04T10:28:56.065370Z
+K 7
+svn:log
+V 214
+Fixed a bug in markParents when the new status is pmarked and old status is pmarked there is nothing to be done because the change occurred in a sub directory. File changes do not affect markParents. Seems to work.
+END

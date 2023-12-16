@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-18T12:56:46.490206Z
+K 7
+svn:log
+V 50
+added a help menu and wxHelpController to MyFrame.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-03T13:41:15.691004Z
+K 7
+svn:log
+V 130
+changed full dialog to include processed, estimated files, a progress bar, a status bar and start ,stop, browse and close buttons.
+END

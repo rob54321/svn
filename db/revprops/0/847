@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-16T12:14:13.484984Z
+K 7
+svn:log
+V 53
+Added a manifest file for the creation of a jar file.
+END

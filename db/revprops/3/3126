@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2020-07-18T10:23:51.591450Z
+K 7
+svn:log
+V 136
+mbl.pl now mounts multiple vera files from a single drive. -v must have not arguments at the moment. Bit locker devices works completely
+END

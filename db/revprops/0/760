@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-27T20:12:11.068879Z
+K 7
+svn:log
+V 129
+Wrote a main to test the history manager class. Wrote more methods for the history class. Should be complete. Needs more testing.
+END

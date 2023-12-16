@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-06-08T15:54:38.204067Z
+K 7
+svn:log
+V 97
+added another getrecord function that works with a select statement and returns multiple records.
+END

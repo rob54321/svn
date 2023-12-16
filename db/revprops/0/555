@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-05-19T14:38:27.378008Z
+K 7
+svn:log
+V 324
+fixed col attributes so that dbgrid does not crash. Set all the appropriate editors for the different columns and made a new method SetDefaultColAttributes which sets col attributes to that editing on the grid can take place. To Do: must save the changed values to the database and refresh the record to reflect the changes.
+END

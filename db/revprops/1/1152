@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+root
+K 8
+svn:date
+V 27
+2009-10-26T11:55:06.257611Z
+K 7
+svn:log
+V 73
+removed root and usr/local/bin dirs. files will be export from repository
+END

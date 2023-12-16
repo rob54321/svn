@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-25T07:44:26.687059Z
+K 7
+svn:log
+V 84
+changed project settings, project now references backup, status, treepanel projects.
+END

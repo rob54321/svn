@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-04T13:23:53.933184Z
+K 7
+svn:log
+V 176
+Implemented some integers for filesProcessed which the FullDialog can retrieve while the backup is running. FullDialog will have to launch the full backup as a separate thread.
+END

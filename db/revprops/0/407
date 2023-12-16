@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-28T10:08:51.163557Z
+K 7
+svn:log
+V 140
+changed history lists in the dialogs. They seem to work ok. Use text boxes not combo boxes anymore. Each dialog has a separate history list.
+END

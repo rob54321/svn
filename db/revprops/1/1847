@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-02-18T19:20:10.080459Z
+K 7
+svn:log
+V 74
+changed init-my-linux because changed name of debian repostitory to debian
+END

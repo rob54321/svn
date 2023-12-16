@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2013-01-30T11:10:19.589038Z
+K 7
+svn:log
+V 66
+fine tuned perbackup for mounted devices, added myp to rsbackup.pl
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-11T15:13:14.510000Z
+K 7
+svn:log
+V 117
+Added scroll bars to the comments and maintenance text areas in the insert dialog. Also improved some other comments.
+END

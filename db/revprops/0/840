@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-14T20:58:10.884314Z
+K 7
+svn:log
+V 107
+Added a choose method to the history file. If the combo box is used to select then the order is maintained.
+END

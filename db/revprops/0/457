@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-12-26T15:13:04.165371Z
+K 7
+svn:log
+V 100
+fixed a bug in LoadStatusList. The directory status is now determined for existing directories only.
+END

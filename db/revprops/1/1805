@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-01-26T12:11:15.412774Z
+K 7
+svn:log
+V 94
+set_proxy now reads ip address and saves proxy settings to file. Must still download proxy.pac
+END

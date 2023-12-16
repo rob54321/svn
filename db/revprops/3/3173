@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2020-08-02T19:33:54.576989Z
+K 7
+svn:log
+V 193
+made version 2.3. Added -V option for version, -t to export and build the trunk, -p now export the latest release, builds and moves it. Must still move package in subersion to trunk and release
+END

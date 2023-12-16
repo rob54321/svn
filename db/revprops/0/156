@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-05T15:46:12.561744Z
+K 7
+svn:log
+V 142
+Working recursively. uses a bash script to determine if a file is a link. Improved AddDirectoryTree function, does not use GetDirCount anymore
+END

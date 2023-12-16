@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-22T14:21:38.255927Z
+K 7
+svn:log
+V 98
+added mydir and myarchive to myt. They were removed from myutils project where they do not belong.
+END

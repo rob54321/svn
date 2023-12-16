@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-02-13T19:57:35.269181Z
+K 7
+svn:log
+V 116
+changed bookmarks manager to compile with dbgrid. copy, cut, paste for a branch seems to work with a temporary tree.
+END

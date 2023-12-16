@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-21T19:02:55.798089Z
+K 7
+svn:log
+V 215
+had to include the backup progress dialog from the myt project and not the backup project. This is very wrong. When the backup is built the include will have to be changed backsvn statussvn status Wrong Wrong Wrong.
+END

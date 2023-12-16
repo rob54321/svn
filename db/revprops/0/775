@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-30T14:30:54.610215Z
+K 7
+svn:log
+V 232
+Added an incremental dialog to get the full pathname of the job file. Must implement a remove feature in the HistoryManager. When a file is opened and the backup then cancelled the history item must be removed from the history list.
+END

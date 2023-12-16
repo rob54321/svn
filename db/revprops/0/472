@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-01-12T06:42:03.182759Z
+K 7
+svn:log
+V 89
+the new menu option works. Must change it to be able to select a new directory or script.
+END

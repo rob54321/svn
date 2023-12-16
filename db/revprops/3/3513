@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2021-11-10T13:30:59.950306Z
+K 7
+svn:log
+V 29
+liveinit: fixed PS1= for root
+END

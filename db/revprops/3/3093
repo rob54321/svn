@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2020-06-23T17:57:11.522225Z
+K 7
+svn:log
+V 70
+rewrote much of bdt.pl. there is also a config file for apt-ftparchive
+END

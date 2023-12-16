@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-16T16:01:18.606223Z
+K 7
+svn:log
+V 458
+changed the SaveBackupList in StatusList class to save directories as well as files. There is a new method in the Backup class MakeBackupList() which reads the default.bk and makes an ArrayString filelist which contains a list of all files. If a directory was backed up and then an incremental backup is done new files as well as changed ones will be backed up. This is different to before, where only changed files would be backed up on incremental backups.
+END

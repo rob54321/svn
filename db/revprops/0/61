@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-04-25T06:39:59.162776Z
+K 7
+svn:log
+V 67
+working correctly for the fist time. Test suite for focusctrl class
+END

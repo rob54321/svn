@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-05-10T09:42:26.368612Z
+K 7
+svn:log
+V 61
+removed debug directories and Makefiles from version control.
+END

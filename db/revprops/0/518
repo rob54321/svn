@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-03-06T20:09:33.100574Z
+K 7
+svn:log
+V 121
+trying to get Estimate working correctly. Put a few extra TestDestory() calls in various loops in myarchive, fbackup etc.
+END

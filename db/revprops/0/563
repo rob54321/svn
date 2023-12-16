@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-05-22T17:22:09.333410Z
+K 7
+svn:log
+V 78
+the insert, delete and update buttons are only enabled when a showall is done.
+END

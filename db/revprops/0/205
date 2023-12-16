@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-04T19:46:27.329871Z
+K 7
+svn:log
+V 225
+Got the SaveStatusList member working. Can do backups to a tar file. The tree only has the shown nodes all others are deleted. The StatusList class manages all status of directories and files. Must still write LoadStatusList.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-09-09T09:49:54.960515Z
+K 7
+svn:log
+V 204
+changed the backup class to do tar or copy with or without compression. Fixed several bugs. The message dialog is not put up from myframe::OnFullBackup. Will add a compression factor to the backup dialog.
+END

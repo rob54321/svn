@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-12-26T10:03:59.547847Z
+K 7
+svn:log
+V 283
+fixed a few bugs in the StatusList class. The method IsParentSelected was changed to first Get the parent of the directory. SetSelect also set the dir status of a new entry after setting the file status of the entry. Asserts were put in to always check the directory and file status.
+END

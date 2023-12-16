@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-02-22T12:55:39.963285Z
+K 7
+svn:log
+V 107
+a script can now be saved to disk with cr lf embeded in the text. They can now be formatted to read better.
+END

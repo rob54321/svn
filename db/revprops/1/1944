@@ -1,0 +1,9 @@
+K 8
+svn:date
+V 27
+2010-03-11T09:19:26.245410Z
+K 7
+svn:log
+V 62
+mail.pl now uses an environment variable for the log directory
+END

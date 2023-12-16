@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-24T21:57:14.349177Z
+K 7
+svn:log
+V 361
+SetNormal, SetSelect and SetPartiall all work now. Only the root directory must not be put in the list as an ALL_UNSELECTED directory because it will never be removed. SetPartial, SetNormal now both remove unselected directories. If dir state changes from partial->partial, or selected->normal or partial->normal the unselected children in the list are deleted.
+END

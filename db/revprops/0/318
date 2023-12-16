@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-10-15T19:54:53.489127Z
+K 7
+svn:log
+V 96
+changed archive to use RecurseDirectory from MyDir so that links can be excluded from zip files.
+END

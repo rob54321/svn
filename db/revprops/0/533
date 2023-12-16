@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-04-11T20:24:58.656748Z
+K 7
+svn:log
+V 197
+rearranged the buttons on the toolbars and included two text controls on the script page in the notebook. Must still sort out the dialog for edit script to rather use the edit page in the notebook.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-08T09:03:24.628439Z
+K 7
+svn:log
+V 203
+Added the methods writeFileList which writes all selected files to a text disk file and writeRecursiveFileList which recursively writes all the files from a given directory to a disk file. Seems to work.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-25T19:21:23.450788Z
+K 7
+svn:log
+V 60
+got the dialog doing the full backup. no checks are done yet
+END

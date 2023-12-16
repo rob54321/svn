@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-25T07:42:09.702389Z
+K 7
+svn:log
+V 146
+Removed the inner class as an event handler and replaced it with the method actionPerformed and made the BackupGui class implement ActionListener.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-09T15:11:20.943000Z
+K 7
+svn:log
+V 119
+Added facility to read multiple exercise sets from one file. Need to write the code to display data from set 2 onwards.
+END

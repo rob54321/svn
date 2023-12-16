@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-10-15T19:55:57.745725Z
+K 7
+svn:log
+V 110
+changed GetAllFilesInDir from MyDir to provide full or short file name lists by using a second bool parameter.
+END

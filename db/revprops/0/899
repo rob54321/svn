@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+root
+K 8
+svn:date
+V 27
+2009-01-08T18:08:24.181936Z
+K 7
+svn:log
+V 113
+changed to use make-kpkg, nvidia.run now works even running a different kernel. Must still sort out vboxdrv setup
+END

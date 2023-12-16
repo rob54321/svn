@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-06T19:11:05.482000Z
+K 7
+svn:log
+V 127
+Insert record now works. Added a method to record manager to executeSQL. Need to correct the date from the date picker control.
+END

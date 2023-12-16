@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-09-24T12:31:36.145117Z
+K 7
+svn:log
+V 63
+changed the SQL statement to select all records back to normal.
+END

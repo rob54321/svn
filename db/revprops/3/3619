@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2023-05-23T07:32:26.857415Z
+K 7
+svn:log
+V 116
+liveinstall.sh: moved cp vminuz/initrd to after apt -y autoremove, delete vmlinuz-*-generic and initrd.img-*-generic
+END

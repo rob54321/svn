@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2021-10-29T06:02:29.349937Z
+K 7
+svn:log
+V 73
+liveinstall.sh mounts debhome dev ro,rw mimicking the host. Default is ro
+END

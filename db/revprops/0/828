@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-14T13:18:28.385353Z
+K 7
+svn:log
+V 64
+Added a bytes processed and estimated fields to the full dialog.
+END

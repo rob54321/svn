@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-03-18T13:37:19.680103Z
+K 7
+svn:log
+V 29
+made set_proxy.pl more robust
+END

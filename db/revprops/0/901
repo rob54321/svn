@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-01-14T06:32:35.319000Z
+K 7
+svn:log
+V 85
+Full backup now places entries into the incjobname history file in the correct order.
+END

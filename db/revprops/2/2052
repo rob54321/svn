@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-04-04T14:03:29.500376Z
+K 7
+svn:log
+V 40
+changed spacing in output of rsbackup.pl
+END

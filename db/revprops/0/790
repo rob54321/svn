@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-02T07:59:40.863536Z
+K 7
+svn:log
+V 127
+Saved the status list during full backup to disk for the incremental backup. Added a fileCount member which must still be used.
+END

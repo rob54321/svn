@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-01-27T12:35:04.755158Z
+K 7
+svn:log
+V 123
+added rightwindow files. Got Grid and bookmarks window working more sensibly. Moved all buttons out of the splitter window.
+END

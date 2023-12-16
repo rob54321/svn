@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-14T13:21:04.635252Z
+K 7
+svn:log
+V 135
+Backup manager now uses the bytes processed to determine the progress made instead of the file count. Only implemented for full backup.
+END

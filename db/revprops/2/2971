@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2017-03-19T11:07:37.632876Z
+K 7
+svn:log
+V 256
+fixed for jessie and debian testing. changes to setdns.pl stopi stoph stopwlan0. Delete pid files for hostapd and dhcpd just in case. ifconfig changed how ip's are display, had to change search sting in setdns.pl. Works under jessie and debian testing now.
+END

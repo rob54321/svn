@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+root
+K 8
+svn:date
+V 27
+2006-05-06T11:09:40.255172Z
+K 7
+svn:log
+V 52
+seems to work, -n deletes override and Packages file
+END

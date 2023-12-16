@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-12T14:10:30.022976Z
+K 7
+svn:log
+V 288
+changed architecture. MyFrame has a treectrl which has a listctrl. The left and right windows simply are parents to tree and list resp. Not necessary to use ide events to update the list control. Tree control does this because list is a member of tree. Each node of a tree displays a list
+END

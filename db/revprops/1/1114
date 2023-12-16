@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-10-02T19:21:11.865527Z
+K 7
+svn:log
+V 39
+fixed a few comments in make-repository
+END

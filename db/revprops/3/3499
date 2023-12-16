@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2021-10-29T06:15:47.660701Z
+K 7
+svn:log
+V 41
+liveinstall.sh: changed hdd to DEBHOMEDEV
+END

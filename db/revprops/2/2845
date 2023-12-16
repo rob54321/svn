@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2015-11-01T11:19:39.080285Z
+K 7
+svn:log
+V 52
+changed homehddBackup to get svn from /mnt/hdext/svn
+END

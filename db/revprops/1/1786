@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-01-17T12:02:28.966497Z
+K 7
+svn:log
+V 72
+fixed postinst makes backups of fstab, smb.conf only if they don't exist
+END

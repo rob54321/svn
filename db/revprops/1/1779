@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-01-15T13:07:02.885000Z
+K 7
+svn:log
+V 72
+changed help file of jigdo5 to include parameter for emailing log files.
+END

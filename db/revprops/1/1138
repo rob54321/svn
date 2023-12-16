@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+root
+K 8
+svn:date
+V 27
+2009-10-25T05:08:40.298165Z
+K 7
+svn:log
+V 38
+changed postinst to run after init-apt
+END

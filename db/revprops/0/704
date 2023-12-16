@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-08T10:44:09.353739Z
+K 7
+svn:log
+V 135
+Fixed a bug in removeAllDescendents. when the root directory is unselected a path separator must not be appended to the directory name.
+END

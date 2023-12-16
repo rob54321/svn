@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-04-15T08:52:50.738157Z
+K 7
+svn:log
+V 194
+changed the new script option to use the script editor on the notebook page instead of the dialog box. Changed the suffix for the IDs in the bookmarks manager and dbform so there are no clashes.
+END

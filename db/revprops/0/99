@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-05-14T20:24:19.061912Z
+K 7
+svn:log
+V 63
+removed insertrec as the record class does all database access.
+END

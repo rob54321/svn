@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-21T10:23:51.568467Z
+K 7
+svn:log
+V 75
+change myutils.h to include std:: so that unsing namespace is not required.
+END

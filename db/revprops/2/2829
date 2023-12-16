@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2015-09-15T13:27:46.190259Z
+K 7
+svn:log
+V 46
+fixed postrm to remove editing of /etc/profile
+END

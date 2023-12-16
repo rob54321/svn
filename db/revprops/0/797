@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-03T19:40:42.088894Z
+K 7
+svn:log
+V 108
+Changed IncDialog so that an existing entry in the history file won't be removed if the backup is cancelled.
+END

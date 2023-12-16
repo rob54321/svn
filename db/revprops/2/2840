@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2015-11-01T10:03:10.236433Z
+K 7
+svn:log
+V 44
+changed init-my-linux to use wily by default
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-05-25T21:05:13.418831Z
+K 7
+svn:log
+V 103
+included comments and maintenance in update dialog. Record frame now shows updated record automatically
+END

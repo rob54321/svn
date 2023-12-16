@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2011-10-12T08:13:53.673446Z
+K 7
+svn:log
+V 43
+changed number of loops to 44 in myrc.local
+END

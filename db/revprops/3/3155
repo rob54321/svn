@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2020-07-26T08:46:00.125448Z
+K 7
+svn:log
+V 157
+fixed all the pattern matches to check for mounted drives. Only have to add a check to umount the vera drive after the last vera container has been unmounted
+END

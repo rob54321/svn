@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2023-05-23T06:26:06.356242Z
+K 7
+svn:log
+V 71
+edited liveinstall.sh moved cp vmlinuz/initrd to after the full upgrade
+END

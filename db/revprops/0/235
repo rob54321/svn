@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-23T20:00:05.660025Z
+K 7
+svn:log
+V 596
+SetSelect and SetNormal now determine file and directory status of the current directory without using GetStatus which would not work. The file and directory status is set and then MarkParent is called to sort the parents. SetSelect and SetNormal work as primitives and do not use GetStatus or DetermineDirectoryStatus which uses GetStatus. SetPartial has also changed to create the list of selected children when a dir goes from selected to partial. To be done MarkParent must delete unselected directories which SetNormal leaves in the list so that MarkParent will know which one was unselected
+END

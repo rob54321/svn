@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-20T15:38:57.659952Z
+K 7
+svn:log
+V 140
+The main ui is designed with dialogblocks. The project seems to work as well as the backup project. All event handlers have been incoprated.
+END

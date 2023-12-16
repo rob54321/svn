@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2020-07-20T14:16:05.672874Z
+K 7
+svn:log
+V 37
+changed rsync parameter in syncsvn.sh
+END

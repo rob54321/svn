@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-21T07:43:03.465127Z
+K 7
+svn:log
+V 200
+dialogblocks can now build the complete project. Included all the object files in the 'library' specificaton for dialogblocks myt project. Added Destroy for the OnExit event handler in the main frame.
+END

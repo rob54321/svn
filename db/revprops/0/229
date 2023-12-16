@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-16T21:09:07.014362Z
+K 7
+svn:log
+V 666
+major change to StatusList class. The class now marks parents automatically as directories are selected or unselected. The new method MarkParent is in the class. MarkParents in the tree control is still required for the visual changing of the icons, but it is simpler. It only needs to GetStatus instead of Determining status. In the statuslist only the highest level selected directory is present, all children are removed. Partially selected directories are in and unselected directories are removed as before. Still need to fix file handling. The SaveBackupList method should be able to be simplified because there are no children of selected parents in the list.
+END

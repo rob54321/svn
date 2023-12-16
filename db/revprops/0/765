@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-28T07:41:27.288391Z
+K 7
+svn:log
+V 61
+Removed the history button as the combo box fulfils this task
+END

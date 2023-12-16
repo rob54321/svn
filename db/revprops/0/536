@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-04-15T16:09:15.224963Z
+K 7
+svn:log
+V 116
+changed the identifier label for the text controls in the script editor window to match the ones in myeditor class.
+
+END

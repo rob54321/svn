@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-13T22:27:00.285549Z
+K 7
+svn:log
+V 113
+put a pointer to the tree control in the list control. Now the list control can communicate with the tree control
+END

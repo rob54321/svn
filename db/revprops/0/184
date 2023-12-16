@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-15T13:55:14.769112Z
+K 7
+svn:log
+V 82
+items are now sorted in the tree. Selection seems to work for parents and children
+END

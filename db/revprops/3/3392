@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2021-07-28T12:08:18.734100Z
+K 7
+svn:log
+V 58
+fixed postinst, check if group exists before adding robert
+END

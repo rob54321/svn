@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-07-09T06:06:27.481254Z
+K 7
+svn:log
+V 108
+get_proxy now cleans up afterwards. If used by root, users would be blocked as they cannot delete root files
+END

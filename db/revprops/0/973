@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-12T09:35:42.332000Z
+K 7
+svn:log
+V 167
+Main window catches events by the TableDateCellEditor. The date and day are captured from the editor. Date is 1952-5-3. I must change it to 1952-05-03. Day is correct.
+END

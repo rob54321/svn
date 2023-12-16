@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-01-21T10:58:07.220973Z
+K 7
+svn:log
+V 120
+integrated bookmarks manager as a separate frame. Must change the main window to a split window with grid and bookmarks.
+END

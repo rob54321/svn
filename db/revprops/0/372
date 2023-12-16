@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-15T08:24:22.616811Z
+K 7
+svn:log
+V 53
+added a cd write check box on the full backup dialog.
+END

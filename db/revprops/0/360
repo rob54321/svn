@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-09T16:49:44.169895Z
+K 7
+svn:log
+V 69
+copy and zip from the Backup class work with the Progress dialog now.
+END

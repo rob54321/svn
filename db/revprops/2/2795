@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2015-09-05T15:38:22.074688Z
+K 7
+svn:log
+V 22
+fixed bugs in postinst
+END

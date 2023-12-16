@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-03T19:03:00.339778Z
+K 7
+svn:log
+V 277
+Made all static variables public. Found a bug in removeAllDescendents. A parent directory cannot just be a sub string of the child. The substring should be /parent/ and the child would be /parent/dir1/dir2 etc. Therefore appended the path separator to the parent for searching.
+END

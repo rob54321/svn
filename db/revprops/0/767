@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-28T08:42:24.728099Z
+K 7
+svn:log
+V 134
+Fixed the FullDialog to display history in the topdir combo box. Duplicate entries are being saved in the history file. Must fix this.
+END

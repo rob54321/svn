@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2023-05-01T09:20:49.950831Z
+K 7
+svn:log
+V 113
+bug fix in liveinstall.sh: if kernel was latest then upgrade would fail because vmlinuz, initrd.img did not exist
+END

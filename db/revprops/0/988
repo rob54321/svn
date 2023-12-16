@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-17T19:27:04.056000Z
+K 7
+svn:log
+V 95
+Removed a repaint of the table in MainWindow. Added a script manager which needs a lot of work.
+END

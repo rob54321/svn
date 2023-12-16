@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-04-11T19:33:19.707956Z
+K 7
+svn:log
+V 166
+changed all IDs so there will be no clashes. Changed return of update and insert dialogs to wxID_OK or wxID_CANCEL so they will not be affected by changes to the IDs.
+END

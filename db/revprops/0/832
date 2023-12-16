@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-14T14:09:49.584177Z
+K 7
+svn:log
+V 152
+Changed the progress bar to use the actual bytes written instead of the file number. There is a bug in the bytes estimated and processed. They remain 0.
+END

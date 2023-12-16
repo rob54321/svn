@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2015-01-28T07:36:12.944364Z
+K 7
+svn:log
+V 65
+changed myenvironment to include env vars for android development
+END

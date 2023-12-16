@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-18T08:13:48.947845Z
+K 7
+svn:log
+V 73
+changed incremental backup to delete the zip file if it fails. Must test.
+END

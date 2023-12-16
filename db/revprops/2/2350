@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2011-05-18T18:07:09.842899Z
+K 7
+svn:log
+V 74
+changed rsbackup so it does incremental backups. it does not rely on rs.pl
+END

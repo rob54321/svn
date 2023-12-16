@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-01-10T11:25:13.980091Z
+K 7
+svn:log
+V 151
+fixed dos menu. If the menu is out of sync with dos being mounted or unmounted it does nothing when selected except change the menu. Gets back in sync.
+END

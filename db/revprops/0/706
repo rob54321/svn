@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-09T09:27:57.715964Z
+K 7
+svn:log
+V 200
+Used File.separator as the path separator instead of the string /. This makes the code more portable. In removeAllDescendents changed the check on the root directory to use the File.separator instead.
+END

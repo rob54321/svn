@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-09-20T06:35:16.108783Z
+K 7
+svn:log
+V 74
+changed Makefile to show all warnings. Edited code to remove all warnings.
+END

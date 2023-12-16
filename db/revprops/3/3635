@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2023-06-04T14:01:18.489699Z
+K 7
+svn:log
+V 52
+liveinstall.sh installs init-linux to /usr/local/bin
+END

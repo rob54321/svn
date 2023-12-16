@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-10-13T05:11:24.101031Z
+K 7
+svn:log
+V 89
+changed project to a managed make project in eclipse. Can make Debug or release versions.
+END

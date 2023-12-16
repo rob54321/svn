@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-10T07:50:39.485000Z
+K 7
+svn:log
+V 252
+Multiple exercise on the insert dialog now work. Must still fix the ok event on the insert dialog. Ok button will submit the record and the dialog will disappear. Must change that so that it disables the close button once the record has been submitted.
+END

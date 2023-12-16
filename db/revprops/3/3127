@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2020-07-19T08:30:43.150313Z
+K 7
+svn:log
+V 82
+mbl.pl now takes vera files, vera mountpoints or disk labels to mount vera volumes
+END

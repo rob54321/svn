@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2015-09-15T12:33:23.765982Z
+K 7
+svn:log
+V 120
+setdns now reads the dns servers from reslov.conf and myenvironment was changed to home_environment and work_environment
+END

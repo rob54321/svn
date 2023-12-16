@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-03-07T06:05:14.618239Z
+K 7
+svn:log
+V 86
+changed edit_interfaces to edit and insert wireless interface into the interfaces file
+END

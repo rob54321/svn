@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-03-04T07:49:09.802315Z
+K 7
+svn:log
+V 78
+moved postinst postrm to my-linux so it can be common to all my-linux packages
+END

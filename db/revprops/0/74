@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-05-01T19:51:45.089395Z
+K 7
+svn:log
+V 47
+removed some unecessary includes in header file
+END

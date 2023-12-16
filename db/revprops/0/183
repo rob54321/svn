@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-15T13:24:05.062870Z
+K 7
+svn:log
+V 168
+detect whether a directory has at least one file or not. This is used to select parents, because and empty directory is not influenced by having unselected 'no files' .
+END

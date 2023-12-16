@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-10-26T14:16:57.022286Z
+K 7
+svn:log
+V 105
+changed backup dlg to keep asking for a new directory or delete all the files. Incremental seems to work.
+END

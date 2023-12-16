@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-10T16:05:19.388000Z
+K 7
+svn:log
+V 144
+Fixed the clear button. exerciseNoCB was generating events when it was cleared. Now events for exerciseNoCB must be disabled when it is cleared.
+END

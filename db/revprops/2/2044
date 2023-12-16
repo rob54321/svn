@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-04-03T17:52:38.765443Z
+K 7
+svn:log
+V 88
+updated rs.pl and copyalltousb.pl. The latter cannot verify files as the paths are wrong
+END

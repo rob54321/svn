@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-30T14:44:02.702407Z
+K 7
+svn:log
+V 147
+Fixed a bug. If the full or incremental dialog accepts a selection but the backup is then cancelled that item is now removed from the history list.
+END

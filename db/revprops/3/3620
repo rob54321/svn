@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2023-05-26T12:21:10.958283Z
+K 7
+svn:log
+V 102
+liveinstall.sh : changed the way dirs are created, list is also written to usr/local/bin for editfstab
+END

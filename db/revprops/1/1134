@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+root
+K 8
+svn:date
+V 27
+2009-10-24T12:48:39.223854Z
+K 7
+svn:log
+V 41
+postinst writes kernel-config to root dir
+END

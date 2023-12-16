@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-12-03T14:11:19.938145Z
+K 7
+svn:log
+V 74
+renamed file to bdt.pl and fixed many bugs. Recursive option seems to work
+END

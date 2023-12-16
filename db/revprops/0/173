@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-11T21:15:36.921410Z
+K 7
+svn:log
+V 119
+used an idle event to update the list control. Still a problem with selections when files are added to the list control
+END

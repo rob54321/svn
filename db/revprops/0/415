@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-29T11:36:59.514711Z
+K 7
+svn:log
+V 132
+included a tar zip backup using the linux tar. Fixed a bug in incremental backup for tar. Now writes incx.tar instead of jobname.tar
+END

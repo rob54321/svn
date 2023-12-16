@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-05-05T07:07:38.749031Z
+K 7
+svn:log
+V 70
+make file includes debugging info. Changed main to do some other tests
+END

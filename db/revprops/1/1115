@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-10-03T13:51:08.656178Z
+K 7
+svn:log
+V 52
+changed live-configure for i386 squeeze and kde-full
+END

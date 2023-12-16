@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+root
+K 8
+svn:date
+V 27
+2009-04-20T14:54:09.456507Z
+K 7
+svn:log
+V 45
+only download jigdo file if it does not exist
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-17T21:04:03.815908Z
+K 7
+svn:log
+V 235
+added function to mydir GetAllFilesInDir. Now save //directory path in the selections saved to disk. On load the double // will indicate a directory a single / will indicate a file. Added a save and open dialogs for the selections file
+END

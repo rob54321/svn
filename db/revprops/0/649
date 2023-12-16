@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-04-24T12:43:16.841491Z
+K 7
+svn:log
+V 91
+Calculates for female under 30 in imperial units. Need to format output to 1 decimal place.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-19T19:59:29.378626Z
+K 7
+svn:log
+V 103
+load selection seems to be working fully. Even if the directory is visible it gets updated immediately.
+END

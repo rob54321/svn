@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-31T20:44:45.569359Z
+K 7
+svn:log
+V 248
+changed the status list so it is owned by the MyFrame. If a directory is selected or unselected files show correctly in the list control. Selected files are put in a selectionlist class. Will change it to have a map<directory, pointer to file list>
+END

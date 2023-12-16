@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-03T14:50:41.434862Z
+K 7
+svn:log
+V 115
+Full backup is now launched from the FullDialog and not from the BackupFrame. Must still change incremental backup.
+END

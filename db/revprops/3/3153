@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2020-07-23T16:27:46.783653Z
+K 7
+svn:log
+V 155
+mbl.pl unmounts verafiles and veramtpts. Still need to update veralistfile and implement unmounting labels. Also need to check if the disk can be unmounted
+END

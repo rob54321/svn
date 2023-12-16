@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2016-10-15T08:42:11.718341Z
+K 7
+svn:log
+V 85
+changed make-live to use better defaults, chrootdir now calculates the real directory
+END

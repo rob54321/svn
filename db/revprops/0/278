@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-09-29T16:56:20.140518Z
+K 7
+svn:log
+V 109
+working on copy files for windows. wxMkdir does not make more than one directory down. Will have to write it.
+END

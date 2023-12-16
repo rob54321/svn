@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-06-13T16:50:25.622575Z
+K 7
+svn:log
+V 223
+Added a FileNode class for the nodes of the tree. This class gives file name and full path name as strings or File objects.
+
+Added a button to add selection and used ActionListener for the button. Did away with tree events.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+root
+K 8
+svn:date
+V 27
+2009-05-28T08:18:25.091166Z
+K 7
+svn:log
+V 87
+jigdo5 now creates the jigdo config file. Bug in create working directory must be fixed
+END

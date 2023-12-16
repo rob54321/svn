@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2021-09-21T14:22:01.683592Z
+K 7
+svn:log
+V 50
+bugfix: in sed cannot use / in a regex, must be \/
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-18T11:23:16.284526Z
+K 7
+svn:log
+V 139
+Incremental backup loads the status list from the backup directory and then converts it to a string. Must work out how to repaint the tree.
+END

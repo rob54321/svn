@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-09-06T14:58:15.867737Z
+K 7
+svn:log
+V 342
+separated the full and incremental backups. Full backup now creates the directory and appends the date to the end of the directory name. If this directory exists before hand it will be deleted with everything below. The jobname.txt is saved in the destination directory. Must work out how to save the status.list to the destination directory.
+END

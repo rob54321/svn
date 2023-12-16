@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-04-19T16:54:41.474873Z
+K 7
+svn:log
+V 91
+expanded the event function to show a message dialog box with the text of the selected item
+END

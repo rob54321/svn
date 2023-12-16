@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-18T09:52:37.248151Z
+K 7
+svn:log
+V 61
+Fixed a bug when an empty directory was added to the archive.
+END

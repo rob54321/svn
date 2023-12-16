@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-25T18:23:38.874320Z
+K 7
+svn:log
+V 190
+backup class added - fbackup. A backup dialog created with dialog blocks was added with its header file. Code was added to the OnBackup event hander in myframe although this is not complete.
+END

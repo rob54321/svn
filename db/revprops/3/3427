@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2021-08-25T12:29:59.793341Z
+K 7
+svn:log
+V 50
+moved root/my-linux/rpi to root/my-linux/init-rpi
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2016-09-06T09:54:32.460479Z
+K 7
+svn:log
+V 66
+fixed homehddBackup init-my-linux rsbackup.pl for new flash drives
+END

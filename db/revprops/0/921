@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+root
+K 8
+svn:date
+V 27
+2009-03-16T07:33:19.421992Z
+K 7
+svn:log
+V 103
+loop device handles more than 10 images, changed mountimages to mount testing and stable simultaneously
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-01-05T08:34:55.070000Z
+K 7
+svn:log
+V 51
+changed /mnt/linux to /mnt/hdd which can be a link.
+END

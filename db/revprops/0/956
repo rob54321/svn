@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-08T06:28:40.630000Z
+K 7
+svn:log
+V 112
+Changed the date format on the insert dialog from 2009-01-29 to 29-01-2009 since it is easier to change the day.
+END

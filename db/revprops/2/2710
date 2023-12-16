@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2014-06-03T15:32:38.020662Z
+K 7
+svn:log
+V 67
+removed gnome shell and added kile dolphin and konsole to file list
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2020-08-31T10:28:07.277171Z
+K 7
+svn:log
+V 51
+fixed postinst to work with external source tarball
+END

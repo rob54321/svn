@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2014-04-19T13:33:30.617061Z
+K 7
+svn:log
+V 102
+make-live now simulates apt-get in the chroot environment to check if packages and dependencies exist.
+END

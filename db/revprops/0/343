@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-10-22T20:56:48.444310Z
+K 7
+svn:log
+V 86
+got some of incremental backup working. Must change the backup names to inc0 inc1 etc.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-05-05T06:54:50.490370Z
+K 7
+svn:log
+V 47
+removed making of virtualbox module in postinst
+END

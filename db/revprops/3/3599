@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2023-04-22T13:24:06.155932Z
+K 7
+svn:log
+V 76
+edited grub.cfg for livesystem efi to show instructions for Windows recovery
+END

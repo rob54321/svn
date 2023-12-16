@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-28T14:46:40.440541Z
+K 7
+svn:log
+V 247
+fixed a bug concerning file permission of the zip archive. Now use wxS_DEFAULT flag in the create method. The backup progress dialog no longer takes so long to display. The OS could not set the file permissions and timed out. They are now correct.
+END

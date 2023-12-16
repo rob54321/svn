@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2015-09-05T15:39:50.515610Z
+K 7
+svn:log
+V 55
+fixed a bug in the deb line which points to the archive
+END

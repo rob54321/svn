@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2018-04-30T10:26:52.087846Z
+K 7
+svn:log
+V 121
+set init-my-linux to install repositories for virtualbox and oraclejava8. oraclejava8 is installed and set to the default
+END

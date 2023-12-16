@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-02T09:51:41.956566Z
+K 7
+svn:log
+V 179
+markFile works for a directory that changes from marked to pmarked. Also works if final dir status is marked or unmarked.
+Must now do pmarked to pmarked by changing a file status.
+END

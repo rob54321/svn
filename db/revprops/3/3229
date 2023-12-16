@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2020-08-11T16:13:22.400394Z
+K 7
+svn:log
+V 42
+made release 2.42 added arm64 architecture
+END

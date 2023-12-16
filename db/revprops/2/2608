@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2013-11-15T08:41:51.061505Z
+K 7
+svn:log
+V 58
+changed control file will put links in for postinst postrm
+END

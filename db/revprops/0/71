@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-05-01T14:10:00.916939Z
+K 7
+svn:log
+V 36
+added a con.close() after each query
+END

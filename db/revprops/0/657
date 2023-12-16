@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-05-20T14:24:41.313950Z
+K 7
+svn:log
+V 107
+Used GridLayout managers in the SettingsPanel so that the individual panels would stretch by equal amounts.
+END

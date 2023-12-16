@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-09-13T16:16:03.816157Z
+K 7
+svn:log
+V 340
+fixed an annoyance. When a file was (un)selected in the list control that had been scrolled down, the RefreshTree() would regenerate the list so that the file list jumped to the first file each time. Added a new function listctrl.Refresh which refreshes the current directory in the list control. Only called when LoadSelections is invoked.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-06T18:28:12.510761Z
+K 7
+svn:log
+V 218
+fixed mytreectrl.cpp. AddChildren had a bug reverted back to a previous version. StatusList class now has SaveStatusList which saves everything. not finished. It has a SaveBackupList which is used for tar to do backups
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-31T15:28:35.918060Z
+K 7
+svn:log
+V 196
+changed GetImageIndex in StatusList class to handle files as well as directories. Changed AddCurDirFiles in the list control to use it for file image index. Simplified AddCurDirFiles still futher.
+END

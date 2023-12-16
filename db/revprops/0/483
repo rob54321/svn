@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-01-21T19:48:21.658436Z
+K 7
+svn:log
+V 229
+major change to dbgrid. Included a split window to show grid on left and bookmarks on right. Not finished yet but does compile. Changes made to bookmarks as well. Removed menu must change the top level frame to a scrolled window.
+END

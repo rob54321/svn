@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-26T17:43:54.035654Z
+K 7
+svn:log
+V 219
+Added a dialog to get the job name and top directory for the full backup. Used two text fields but must change the top directory to a drop down box which includes history. Maybe a drop down box for the job name as well.
+END

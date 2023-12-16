@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-18T11:32:54.168423Z
+K 7
+svn:log
+V 35
+Removed dependency on tree project.
+END

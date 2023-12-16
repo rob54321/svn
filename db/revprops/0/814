@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-07T16:55:22.804784Z
+K 7
+svn:log
+V 139
+Changed history list manager to show existing files for the incremental backup. used a boolean validate parameter in method getHistoryList.
+END

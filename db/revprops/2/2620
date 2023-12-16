@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2013-11-22T09:54:20.159232Z
+K 7
+svn:log
+V 77
+changed control file to include virtualbox 4.3 and remove google earth stable
+END

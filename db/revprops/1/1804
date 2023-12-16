@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-01-26T10:50:37.994059Z
+K 7
+svn:log
+V 71
+set_proxy.pl works but must still download proxy.pac and get ip address
+END

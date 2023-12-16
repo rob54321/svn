@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-07-16T13:15:45.820032Z
+K 7
+svn:log
+V 89
+Save selection now works. I must still implement a save dialog to get a name for the file
+END

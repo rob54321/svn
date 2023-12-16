@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-10-12T16:37:35.513640Z
+K 7
+svn:log
+V 85
+changed return from Add method to return no of files archived or -1 in case of error.
+END

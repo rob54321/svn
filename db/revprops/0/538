@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-04-15T19:06:52.179436Z
+K 7
+svn:log
+V 62
+changed a call to execute a script from the bookmarks manager.
+END

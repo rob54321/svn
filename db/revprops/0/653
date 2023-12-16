@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-04-24T17:54:31.701557Z
+K 7
+svn:log
+V 45
+Changed result field width back to 6 coloumns
+END

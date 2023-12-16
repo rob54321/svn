@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-27T07:18:12.870866Z
+K 7
+svn:log
+V 103
+added a history file to the incremental backup dialog. Still need to do the full backup history dialog.
+END

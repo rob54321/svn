@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-03-27T21:23:47.639347Z
+K 7
+svn:log
+V 27
+postinst uses svn from home
+END

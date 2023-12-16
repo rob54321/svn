@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-02-06T15:23:40.808000Z
+K 7
+svn:log
+V 48
+changed postinst to look like the one in testing
+END

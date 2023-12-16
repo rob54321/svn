@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-01-15T14:09:36.493733Z
+K 7
+svn:log
+V 147
+changed bookmarks->file->new->script to show the edit dialog instead of two separate dialogs. Also set the focus for the dialog to the first field.
+END

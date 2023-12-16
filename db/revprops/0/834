@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-08-14T14:21:09.941415Z
+K 7
+svn:log
+V 74
+Fixed a bug in writeIncList. The bytes and files estimated is now correct.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-01-13T06:57:27.894000Z
+K 7
+svn:log
+V 56
+changed llinux to hdint. fstab and sources.list use hdd.
+END

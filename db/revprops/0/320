@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-10-15T19:57:06.863326Z
+K 7
+svn:log
+V 141
+fixed bugs in RecurseDir and changed GetAllFilesInDir so that it can provide short and long name file lists by using a second bool parameter.
+END

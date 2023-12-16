@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2020-08-30T16:56:15.847921Z
+K 7
+svn:log
+V 61
+added sub getsource to include source tarballs in deb package
+END

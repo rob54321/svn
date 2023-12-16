@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2010-11-27T16:02:48.443001Z
+K 7
+svn:log
+V 45
+improved make-live to handle debian-installer
+END

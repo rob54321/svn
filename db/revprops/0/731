@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-17T10:04:04.014015Z
+K 7
+svn:log
+V 102
+Full backup now cleans up if the backup is not successful. Even the directory count remains unchanged.
+END

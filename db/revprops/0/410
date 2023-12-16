@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-28T12:27:44.076198Z
+K 7
+svn:log
+V 134
+myframe now creates config directory if it does not exist. Disabled the Ok button on dialogs until all the necessary entries are made.
+END

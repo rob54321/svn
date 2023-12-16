@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-27T10:48:33.365901Z
+K 7
+svn:log
+V 168
+changed RefreshBranch and RefreshTree in the treectrl so that they only set the image index. Not necessary to set the status with MarkItem as the status is already set.
+END

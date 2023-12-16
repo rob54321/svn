@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-12-08T03:51:59.960000Z
+K 7
+svn:log
+V 44
+changed ext3 to auto for mount in myrc.local
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-11-26T18:57:15.574493Z
+K 7
+svn:log
+V 187
+finished destination and jobname history lists from the full backup dialog. The jobname history needs some more tesing the number of items varies between max and max -1 sometimes I think.
+END

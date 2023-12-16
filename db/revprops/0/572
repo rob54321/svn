@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-06-25T16:23:17.822176Z
+K 7
+svn:log
+V 114
+inserted wxMutexGuiEnter and wxMutexGuiLeave() functions around the code that sets the total file size in fbackup.
+END

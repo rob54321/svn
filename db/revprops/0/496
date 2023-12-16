@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-01-30T07:35:26.397759Z
+K 7
+svn:log
+V 119
+placed a static box to show name of executed script. Executing a script by double clicking or via the popup menu works.
+END

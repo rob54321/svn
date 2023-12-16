@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2021-08-18T11:32:32.039345Z
+K 7
+svn:log
+V 38
+init-rpi disables init-rpi.service now
+END

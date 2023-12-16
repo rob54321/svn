@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2020-07-27T15:10:48.486992Z
+K 7
+svn:log
+V 129
+mbl.pl works with all combinations of options and unmounts disks correctly. This could be a first release. ubl.pl works correctly
+END

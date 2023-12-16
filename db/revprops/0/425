@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-12-02T11:19:42.181743Z
+K 7
+svn:log
+V 224
+fixed a bug. When backup is first started the m_current_itemid was not initialised. If a file in the root directory was selected it would crash. Fixed now. Also added a feature to select or unselect all files in a directory.
+END

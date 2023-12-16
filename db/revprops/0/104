@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-05-19T16:16:27.558231Z
+K 7
+svn:log
+V 94
+first entry of listversions. Will eventually delete old versions of deb files in a debian tree
+END

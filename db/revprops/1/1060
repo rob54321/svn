@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-07-09T19:50:38.898642Z
+K 7
+svn:log
+V 67
+get_proxy uses a login shell to get access to environment variables
+END

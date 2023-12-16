@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2012-01-12T12:36:27.175295Z
+K 7
+svn:log
+V 57
+set new property to copy update-eclipse to /usr/local/bin
+END

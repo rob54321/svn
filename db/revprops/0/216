@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-07T16:09:04.054613Z
+K 7
+svn:log
+V 196
+got the refresh tree working after loading the statuslist from disk. Must now check if an updated directory is displayed in the list control. If so show the selected files in the current_directory
+END

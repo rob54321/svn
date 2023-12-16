@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-07-15T16:45:44.768392Z
+K 7
+svn:log
+V 178
+Added code to only open and close the zip stream if there is at least one file to be archived. Must now change the writing of the job file to occur after the zip has been closed.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-05-10T15:42:32.321257Z
+K 7
+svn:log
+V 64
+changed and to && and or to || so it will compile under windows.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2008-06-05T12:18:11.376003Z
+K 7
+svn:log
+V 119
+Added a List class to add files and directories to a backup list. This list of file names will be backed up ultimately.
+END

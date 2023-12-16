@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-09-13T16:18:17.087872Z
+K 7
+svn:log
+V 94
+removed the code from treectrl.Refresh() that added files to the directory in the list control
+END

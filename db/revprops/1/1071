@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-07-28T18:48:15.887658Z
+K 7
+svn:log
+V 89
+jigdo5 writes a few more things to log. removed unused vars from myrc.local myenvironment
+END

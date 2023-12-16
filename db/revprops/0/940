@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2009-04-05T09:06:56.638000Z
+K 7
+svn:log
+V 119
+Put each date, type and race on its own panel with borders. Added the panels to a common panel which forms the top row.
+END

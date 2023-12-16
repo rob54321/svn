@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2021-12-18T06:01:52.164616Z
+K 7
+svn:log
+V 57
+backuplynn now gets the disk label of where to store info
+END

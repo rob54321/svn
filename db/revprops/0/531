@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2007-04-11T18:43:37.064357Z
+K 7
+svn:log
+V 54
+changed insertdialog so that it will build on its own.
+END

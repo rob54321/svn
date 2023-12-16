@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+robert
+K 8
+svn:date
+V 27
+2006-08-26T06:24:51.985339Z
+K 7
+svn:log
+V 206
+working well improved a few comments. changed root_dir to temp directory for testing. Need to check in SetPartial if the previous_status is ALL_UNSELECTED why I do not set the file_status to ALL_UNSELECTED.
+END
